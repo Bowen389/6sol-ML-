@@ -51,14 +51,29 @@ def main():
             try:
                 last_req=time.monotonic()
                 resp=session.post(URL,json={'marketHashName':name,'type':typ,'platform':'ALL'},timeout=25)
+                if resp.status_code in (401,403):
+                    raise SystemExit(f'Authorization/permission failure HTTP {resp.status_code}. Check Secret, Bearer permission and API access; stop before scanning all items.')
                 if resp.status_code in (429,500,502,503,504):
-                    time.sleep(min(60,2**attempt*3+random.random()));continue
-                resp.raise_for_status()
-                rows.extend(decode(resp.json(),name,item.category))
+                    if attempt==4:failures.append((name,f'HTTP {resp.status_code} after retries'))
+                    else:time.sleep(min(60,2**attempt*3+random.random()))
+                    continue
+                if resp.status_code!=200:
+                    failures.append((name,f'HTTP {resp.status_code}'))
+                    break
+                payload=resp.json()
+                if payload.get('success') is not True:
+                    code=payload.get('errorCode');msg=str(payload.get('errorMsg',''))[:120].replace(key,'[REDACTED]')
+                    failures.append((name,f'API code={code}, msg={msg}'))
+                    break  # Business errors do not benefit from retrying 5 times.
+                rows.extend(decode(payload,name,item.category))
                 break
             except (requests.RequestException,ValueError,KeyError,OverflowError) as err:
-                if attempt==4:failures.append((name,str(err)[:180]))
+                safe=str(err)[:180].replace(key,'[REDACTED]')
+                if attempt==4:failures.append((name,safe))
                 else:time.sleep(min(30,2**attempt+random.random()))
+        if count<=3 and failures:print(f'Initial API error {count}: {failures[-1]}',flush=True)
+        if count>=3 and len(failures)==count:
+            raise SystemExit(f'First {count} items all failed; stopping early. Examples: {failures[:3]}')
         if count%100==0:print(f'Fetched {count}/{len(universe)}; failed {len(failures)}',flush=True)
     coverage=1-len(failures)/len(universe)
     if coverage<args.min_coverage:raise SystemExit(f'Insufficient API coverage {coverage:.1%}; first errors: {failures[:8]}')
