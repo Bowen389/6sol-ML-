@@ -1,7 +1,7 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-09-29
-- 最新K线日期：2026-09-29（距今 0 天）
+- 运行日期（日本时间）：2026-09-30
+- 最新K线日期：2026-09-30（距今 0 天）
 - 有效饰品：1570；候选：7
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
@@ -16,10 +16,10 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| P90 \| Desert Halftone (Factory New) | gun_FN | 2 | 98.2 | -31.6% | -23.5% |
-| UMP-45 \| Facility Dark (Factory New) | gun_FN | 2 | 96.4 | -24.1% | -29.0% |
-| Dual Berettas \| Ventilators (Factory New) | gun_FN | 3 | 46.4 | -0.7% | 21.9% |
-| MP7 \| Full Stop (Factory New) | gun_FN | 3 | 46.4 | 10.3% | 0.2% |
-| P250 \| Bullfrog (Factory New) | gun_FN | 3 | 46.4 | -0.6% | 0.8% |
-| Patch \| Phoenix | agent | 3 | 46.4 | 7.1% | 5.9% |
-| XM1014 \| Black Site (Factory New) | gun_FN | 3 | 46.4 | 0.8% | 9.8% |
+| XM1014 \| Canvas Cloud (Factory New) | gun_FN | 2 | 98.1 | -23.1% | -50.0% |
+| MP7 \| Prey (Factory New) | gun_FN | 3 | 97.7 | 8.5% | 70.6% |
+| CZ75-Auto \| Vendetta (Factory New) | gun_FN | 3 | 94.8 | 2.8% | 18.6% |
+| MP9 \| Deadly Poison (Factory New) | gun_FN | 3 | 94.8 | 16.6% | 17.8% |
+| XM1014 \| Black Site (Factory New) | gun_FN | 3 | 94.8 | 6.4% | 13.4% |
+| AUG \| Midnight Lily (Factory New) | gun_FN | 3 | 46.3 | 1.6% | 0.2% |
+| P250 \| Sand Dune (Factory New) | gun_FN | 2 | 46.3 | -16.8% | -34.1% |
