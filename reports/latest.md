@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-03
-- 最新K线日期：2026-10-03（距今 0 天）
-- 有效饰品：1570；候选：13
+- 运行日期（日本时间）：2026-10-04
+- 最新K线日期：2026-10-04（距今 0 天）
+- 有效饰品：1570；候选：14
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,16 +16,17 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Dual Berettas \| Silver Pour (Factory New) | gun_FN | 1、2 | 99.9 | -27.8% | -53.6% |
-| P90 \| Leather (Factory New) | gun_FN | 2 | 99.3 | -32.3% | -40.5% |
-| Glock-18 \| Weasel (Factory New) | gun_FN | 3 | 97.2 | 21.9% | 16.7% |
-| Dual Berettas \| Marina (Factory New) | gun_FN | 3 | 95.4 | 6.8% | 2.1% |
-| Five-SeveN \| Fall Hazard (Factory New) | gun_FN | 3 | 95.4 | 11.8% | 5.9% |
-| MP5-SD \| Agent (Factory New) | agent | 3 | 95.4 | 1.5% | 0.5% |
-| ★ Driver Gloves \| Plum Quill (Field-Tested) | gloves_MW_FT | 3 | 95.4 | 4.1% | 0.8% |
-| Tec-9 \| Ossified (Factory New) | gun_FN | 2 | 93.1 | -15.8% | -53.2% |
-| Dual Berettas \| Royal Consorts (Factory New) | gun_FN | 2 | 46.3 | -16.8% | -52.3% |
-| FAMAS \| Eye of Athena (Factory New) | gun_FN | 2 | 46.3 | -15.2% | -37.7% |
-| Five-SeveN \| Angry Mob (Factory New) | gun_FN | 3 | 46.3 | 12.7% | 11.1% |
-| USP-S \| Cyrex (Factory New) | gun_FN | 2 | 46.3 | -16.9% | -43.6% |
-| Zeus x27 \| Electric Blue (Factory New) | gun_FN | 3 | 46.3 | 5.8% | 0.6% |
+| CZ75-Auto \| Honey Paisley (Factory New) | gun_FN | 2 | 99.3 | -26.7% | -42.1% |
+| USP-S \| Night Ops (Factory New) | gun_FN | 2 | 96.9 | -18.7% | -51.8% |
+| Dual Berettas \| Marina (Factory New) | gun_FN | 3 | 95.7 | 7.3% | 2.6% |
+| P90 \| Grim (Factory New) | gun_FN | 3 | 95.7 | 28.8% | 8.2% |
+| XM1014 \| Ancient Lore (Factory New) | gun_FN | 3 | 95.7 | 4.5% | 7.6% |
+| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 95.7 | 9.5% | 0.3% |
+| P250 \| Contaminant (Factory New) | gun_FN | 3 | 94.5 | 8.1% | 23.3% |
+| AUG \| Akihabara Accept (Factory New) | gun_FN | 3 | 47.0 | 5.5% | 1.7% |
+| Desert Eagle \| Firebreathing (Factory New) | gun_FN | 3 | 47.0 | 6.1% | 1.9% |
+| MP5-SD \| Acid Wash (Factory New) | gun_FN | 3 | 47.0 | 7.3% | 2.6% |
+| SG 553 \| Wave Spray (Factory New) | gun_FN | 2 | 47.0 | -15.5% | -21.4% |
+| USP-S \| Business Class (Factory New) | gun_FN | 3 | 47.0 | 11.1% | 4.8% |
+| XM1014 \| Teclu Burner (Factory New) | gun_FN | 2 | 47.0 | -16.5% | -26.5% |
+| G3SG1 \| VariCamo (Factory New) | gun_FN | 3 | 0.6 | 78.3% | 59.2% |
