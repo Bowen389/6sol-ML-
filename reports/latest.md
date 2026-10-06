@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-05
-- 最新K线日期：2026-10-05（距今 0 天）
-- 有效饰品：1570；候选：5
+- 运行日期（日本时间）：2026-10-06
+- 最新K线日期：2026-10-06（距今 0 天）
+- 有效饰品：1570；候选：8
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,8 +16,11 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Glock-18 \| Ifrit Lattice (Factory New) | gun_FN | 1 | 100.0 | 0.4% | -10.8% |
-| Dual Berettas \| Marina (Factory New) | gun_FN | 3 | 95.2 | 9.8% | 6.5% |
-| MP9 \| Deadly Poison (Factory New) | gun_FN | 3 | 95.2 | 12.7% | 21.9% |
-| MP9 \| Goo (Factory New) | gun_FN | 2 | 93.5 | -20.2% | -54.1% |
-| ★ Driver Gloves \| Brocade Crane (Minimal Wear) | gloves_MW_FT | 3 | 46.8 | 0.8% | 0.8% |
+| Sawed-Off \| First Class (Factory New) | gun_FN | 3 | 98.5 | 19.9% | 13.5% |
+| AWP \| Medusa (Factory New) | gun_FN | 3 | 95.7 | 5.1% | 3.3% |
+| P250 \| Facets (Factory New) | gun_FN | 3 | 95.7 | 20.5% | 5.5% |
+| P90 \| Astral Jörmungandr (Factory New) | gun_FN | 3 | 95.7 | 2.7% | 7.8% |
+| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 95.7 | 26.1% | 17.5% |
+| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 95.7 | 17.4% | 12.3% |
+| Five-SeveN \| Fall Hazard (Factory New) | gun_FN | 3 | 46.5 | 22.1% | 21.0% |
+| Glock-18 \| Umbral Rabbit (Factory New) | gun_FN | 2 | 46.5 | -16.2% | -30.8% |
