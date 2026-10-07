@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-06
-- 最新K线日期：2026-10-06（距今 0 天）
-- 有效饰品：1570；候选：8
+- 运行日期（日本时间）：2026-10-07
+- 最新K线日期：2026-10-07（距今 0 天）
+- 有效饰品：1570；候选：10
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,11 +16,13 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Sawed-Off \| First Class (Factory New) | gun_FN | 3 | 98.5 | 19.9% | 13.5% |
-| AWP \| Medusa (Factory New) | gun_FN | 3 | 95.7 | 5.1% | 3.3% |
-| P250 \| Facets (Factory New) | gun_FN | 3 | 95.7 | 20.5% | 5.5% |
-| P90 \| Astral Jörmungandr (Factory New) | gun_FN | 3 | 95.7 | 2.7% | 7.8% |
-| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 95.7 | 26.1% | 17.5% |
-| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 95.7 | 17.4% | 12.3% |
-| Five-SeveN \| Fall Hazard (Factory New) | gun_FN | 3 | 46.5 | 22.1% | 21.0% |
-| Glock-18 \| Umbral Rabbit (Factory New) | gun_FN | 2 | 46.5 | -16.2% | -30.8% |
+| AUG \| Colony (Factory New) | gun_FN | 1 | 100.0 | 0.1% | -0.7% |
+| MP9 \| Pine (Factory New) | gun_FN | 2 | 99.5 | -29.4% | -42.9% |
+| XM1014 \| Blue Tire (Factory New) | gun_FN | 2 | 98.4 | -16.1% | -60.6% |
+| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 97.5 | 26.3% | 27.4% |
+| Five-SeveN \| Nitro (Factory New) | gun_FN | 3 | 94.3 | 2.6% | 7.5% |
+| MP9 \| Green Plaid (Factory New) | gun_FN | 3 | 94.3 | 14.8% | 14.8% |
+| Sawed-Off \| Crimson Batik (Factory New) | gun_FN | 2 | 92.4 | -16.7% | -37.5% |
+| AUG \| Eye of Zapems (Factory New) | gun_FN | 2 | 45.6 | -18.1% | -23.8% |
+| AUG \| Snake Pit (Factory New) | gun_FN | 2 | 45.6 | -17.0% | -39.7% |
+| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 0.4 | 28.1% | 17.9% |
