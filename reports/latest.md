@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-07
-- 最新K线日期：2026-10-07（距今 0 天）
-- 有效饰品：1570；候选：10
+- 运行日期（日本时间）：2026-10-08
+- 最新K线日期：2026-10-08（距今 0 天）
+- 有效饰品：1571；候选：10
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,13 +16,13 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| AUG \| Colony (Factory New) | gun_FN | 1 | 100.0 | 0.1% | -0.7% |
-| MP9 \| Pine (Factory New) | gun_FN | 2 | 99.5 | -29.4% | -42.9% |
-| XM1014 \| Blue Tire (Factory New) | gun_FN | 2 | 98.4 | -16.1% | -60.6% |
-| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 97.5 | 26.3% | 27.4% |
-| Five-SeveN \| Nitro (Factory New) | gun_FN | 3 | 94.3 | 2.6% | 7.5% |
-| MP9 \| Green Plaid (Factory New) | gun_FN | 3 | 94.3 | 14.8% | 14.8% |
-| Sawed-Off \| Crimson Batik (Factory New) | gun_FN | 2 | 92.4 | -16.7% | -37.5% |
-| AUG \| Eye of Zapems (Factory New) | gun_FN | 2 | 45.6 | -18.1% | -23.8% |
-| AUG \| Snake Pit (Factory New) | gun_FN | 2 | 45.6 | -17.0% | -39.7% |
-| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 0.4 | 28.1% | 17.9% |
+| Dual Berettas \| Silver Pour (Factory New) | gun_FN | 2 | 98.7 | -23.5% | -48.0% |
+| MP9 \| Dizzy (Factory New) | gun_FN | 2 | 98.1 | -23.1% | -44.4% |
+| MP9 \| Multi-Terrain (Factory New) | gun_FN | 2 | 98.1 | -23.1% | -44.4% |
+| G3SG1 \| Red Jasper (Factory New) | gun_FN | 2 | 97.5 | -26.7% | -45.0% |
+| Five-SeveN \| Fall Hazard (Factory New) | gun_FN | 3 | 95.4 | 18.9% | 25.2% |
+| Glock-18 \| Ironwork (Factory New) | gun_FN | 3 | 95.4 | 54.4% | 0.4% |
+| USP-S \| Business Class (Factory New) | gun_FN | 3 | 95.4 | 7.4% | 11.9% |
+| FAMAS \| Crypsis (Factory New) | gun_FN | 2 | 92.3 | -21.4% | -49.3% |
+| P2000 \| Handgun (Factory New) | gun_FN | 3 | 46.6 | 2.6% | 0.9% |
+| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 46.6 | 16.8% | 13.8% |
