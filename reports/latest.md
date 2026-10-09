@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-08
-- 最新K线日期：2026-10-08（距今 0 天）
-- 有效饰品：1571；候选：10
+- 运行日期（日本时间）：2026-10-09
+- 最新K线日期：2026-10-09（距今 0 天）
+- 有效饰品：1571；候选：12
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,13 +16,15 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Dual Berettas \| Silver Pour (Factory New) | gun_FN | 2 | 98.7 | -23.5% | -48.0% |
-| MP9 \| Dizzy (Factory New) | gun_FN | 2 | 98.1 | -23.1% | -44.4% |
-| MP9 \| Multi-Terrain (Factory New) | gun_FN | 2 | 98.1 | -23.1% | -44.4% |
-| G3SG1 \| Red Jasper (Factory New) | gun_FN | 2 | 97.5 | -26.7% | -45.0% |
-| Five-SeveN \| Fall Hazard (Factory New) | gun_FN | 3 | 95.4 | 18.9% | 25.2% |
-| Glock-18 \| Ironwork (Factory New) | gun_FN | 3 | 95.4 | 54.4% | 0.4% |
-| USP-S \| Business Class (Factory New) | gun_FN | 3 | 95.4 | 7.4% | 11.9% |
-| FAMAS \| Crypsis (Factory New) | gun_FN | 2 | 92.3 | -21.4% | -49.3% |
-| P2000 \| Handgun (Factory New) | gun_FN | 3 | 46.6 | 2.6% | 0.9% |
-| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 46.6 | 16.8% | 13.8% |
+| MP9 \| Pine (Factory New) | gun_FN | 1、2 | 99.6 | -35.0% | -35.0% |
+| UMP-45 \| Plastique (Factory New) | gun_FN | 3 | 98.2 | 60.6% | 111.2% |
+| MAG-7 \| Copper Oxide (Factory New) | gun_FN | 2 | 97.3 | -15.4% | -38.9% |
+| AUG \| Lapis Lazuli (Factory New) | gun_FN | 3 | 95.3 | 5.2% | 2.0% |
+| MP7 \| Groundwater (Factory New) | gun_FN | 3 | 95.3 | 13.9% | 0.9% |
+| R8 Revolver \| Cobalt Grip (Factory New) | gun_FN | 2 | 92.1 | -15.4% | -18.5% |
+| MAG-7 \| Memento (Factory New) | gun_FN | 2 | 46.2 | -15.1% | -29.3% |
+| MP5-SD \| Nitro (Factory New) | gun_FN | 2 | 46.2 | -17.6% | -22.7% |
+| P2000 \| Granite Marbleized (Factory New) | gun_FN | 2 | 46.2 | -19.1% | -44.5% |
+| SSG 08 \| Hand Brake (Factory New) | gun_FN | 2 | 46.2 | -15.4% | -32.8% |
+| MAC-10 \| Sienna Damask (Factory New) | gun_FN | 3 | 0.5 | 20.9% | 29.4% |
+| SCAR-20 \| Splash Jam (Factory New) | gun_FN | 3 | 0.4 | 90.3% | 90.3% |
