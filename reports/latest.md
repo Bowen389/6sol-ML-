@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-10
-- 最新K线日期：2026-10-10（距今 0 天）
-- 有效饰品：1571；候选：19
+- 运行日期（日本时间）：2026-10-11
+- 最新K线日期：2026-10-11（距今 0 天）
+- 有效饰品：1571；候选：11
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,22 +16,14 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| AUG \| Colony (Factory New) | gun_FN | 1 | 100.0 | 38.4% | -0.6% |
-| Tec-9 \| Army Mesh (Factory New) | gun_FN | 2 | 99.1 | -27.3% | -38.5% |
-| FAMAS \| Survivor Z (Factory New) | gun_FN | 2 | 96.9 | -21.1% | -46.9% |
-| AUG \| Lapis Lazuli (Factory New) | gun_FN | 3 | 94.8 | 14.5% | 10.5% |
-| Dual Berettas \| Marina (Factory New) | gun_FN | 3 | 94.8 | 3.8% | 8.5% |
-| UMP-45 \| Carbon Fiber (Factory New) | gun_FN | 3 | 94.8 | 16.9% | 8.6% |
-| Patch \| Phoenix | agent | 3 | 93.6 | 15.4% | 32.4% |
-| AUG \| Contractor (Factory New) | gun_FN | 2 | 92.6 | -19.9% | -41.7% |
-| FAMAS \| CaliCamo (Factory New) | gun_FN | 2 | 92.3 | -17.7% | -46.5% |
-| FAMAS \| Styx (Factory New) | gun_FN | 3 | 45.9 | 3.9% | 18.2% |
-| M4A1-S \| Atomic Alloy (Factory New) | gun_FN | 3 | 45.9 | 11.7% | 21.8% |
-| MAC-10 \| Malachite (Factory New) | gun_FN | 2 | 45.9 | -16.0% | -37.3% |
-| MP7 \| Scorched (Factory New) | gun_FN | 3 | 45.9 | 3.1% | 2.3% |
-| P250 \| Apep's Curse (Factory New) | gun_FN | 2 | 45.9 | -15.7% | -32.5% |
-| PP-Bizon \| Space Cat (Factory New) | gun_FN | 2 | 45.9 | -17.9% | -21.4% |
-| Poorly Drawn Capsule | agent | 3 | 45.9 | 4.6% | 7.7% |
-| Tec-9 \| Banana Leaf (Factory New) | gun_FN | 3 | 45.9 | 11.7% | 13.9% |
-| ★ Hand Wraps \| Badlands (Field-Tested) | gloves_MW_FT | 3 | 45.9 | 6.5% | 1.0% |
-| MAG-7 \| Metallic DDPAT (Factory New) | gun_FN | 3 | 0.8 | 11.5% | 1.5% |
+| AUG \| Colony (Factory New) | gun_FN | 1 | 100.0 | 38.4% | -0.3% |
+| P2000 \| Chainmail (Factory New) | gun_FN | 3 | 99.9 | 2.6% | 1.7% |
+| MAC-10 \| Classic Crate (Factory New) | gun_FN | 2 | 99.0 | -20.6% | -64.8% |
+| MAC-10 \| Silver (Factory New) | gun_FN | 2 | 96.3 | -26.7% | -32.1% |
+| P2000 \| Red Wing (Factory New) | gun_FN | 3 | 94.5 | 10.0% | 6.1% |
+| Poorly Drawn Capsule | agent | 3 | 94.5 | 5.7% | 8.9% |
+| Tec-9 \| Army Mesh (Factory New) | gun_FN | 2 | 92.9 | -18.8% | -33.3% |
+| AUG \| Random Access (Factory New) | gun_FN | 3 | 91.9 | 16.8% | 13.2% |
+| Desert Eagle \| Light Rail (Factory New) | gun_FN | 3 | 45.7 | 9.9% | 9.2% |
+| P90 \| Ash Wood (Factory New) | gun_FN | 2 | 45.7 | -19.8% | -47.0% |
+| SSG 08 \| Green Ceramic (Factory New) | gun_FN | 2 | 45.7 | -15.8% | -23.8% |
