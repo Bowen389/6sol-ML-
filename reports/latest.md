@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-11
-- 最新K线日期：2026-10-11（距今 0 天）
-- 有效饰品：1571；候选：11
+- 运行日期（日本时间）：2026-10-12
+- 最新K线日期：2026-10-12（距今 0 天）
+- 有效饰品：1571；候选：7
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,14 +16,10 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| AUG \| Colony (Factory New) | gun_FN | 1 | 100.0 | 38.4% | -0.3% |
-| P2000 \| Chainmail (Factory New) | gun_FN | 3 | 99.9 | 2.6% | 1.7% |
-| MAC-10 \| Classic Crate (Factory New) | gun_FN | 2 | 99.0 | -20.6% | -64.8% |
-| MAC-10 \| Silver (Factory New) | gun_FN | 2 | 96.3 | -26.7% | -32.1% |
-| P2000 \| Red Wing (Factory New) | gun_FN | 3 | 94.5 | 10.0% | 6.1% |
-| Poorly Drawn Capsule | agent | 3 | 94.5 | 5.7% | 8.9% |
-| Tec-9 \| Army Mesh (Factory New) | gun_FN | 2 | 92.9 | -18.8% | -33.3% |
-| AUG \| Random Access (Factory New) | gun_FN | 3 | 91.9 | 16.8% | 13.2% |
-| Desert Eagle \| Light Rail (Factory New) | gun_FN | 3 | 45.7 | 9.9% | 9.2% |
-| P90 \| Ash Wood (Factory New) | gun_FN | 2 | 45.7 | -19.8% | -47.0% |
-| SSG 08 \| Green Ceramic (Factory New) | gun_FN | 2 | 45.7 | -15.8% | -23.8% |
+| AUG \| Colony (Factory New) | gun_FN | 1 | 100.0 | 38.5% | -13.2% |
+| Tec-9 \| Army Mesh (Factory New) | gun_FN | 2 | 97.3 | -22.6% | -40.0% |
+| Dual Berettas \| Marina (Factory New) | gun_FN | 3 | 94.7 | 4.9% | 12.1% |
+| ★ Driver Gloves \| Rezan the Red (Field-Tested) | gloves_MW_FT | 3 | 94.7 | 2.0% | 1.0% |
+| MAC-10 \| Silver (Factory New) | gun_FN | 2 | 92.9 | -25.7% | -27.9% |
+| Tec-9 \| Rebel (Factory New) | gun_FN | 2 | 46.5 | -18.2% | -36.6% |
+| MAC-10 \| Sienna Damask (Factory New) | gun_FN | 3 | 0.2 | 50.0% | 63.4% |
