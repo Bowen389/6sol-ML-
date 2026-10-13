@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-12
-- 最新K线日期：2026-10-12（距今 0 天）
-- 有效饰品：1571；候选：7
+- 运行日期（日本时间）：2026-10-13
+- 最新K线日期：2026-10-13（距今 0 天）
+- 有效饰品：1571；候选：4
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,10 +16,7 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| AUG \| Colony (Factory New) | gun_FN | 1 | 100.0 | 38.5% | -13.2% |
-| Tec-9 \| Army Mesh (Factory New) | gun_FN | 2 | 97.3 | -22.6% | -40.0% |
-| Dual Berettas \| Marina (Factory New) | gun_FN | 3 | 94.7 | 4.9% | 12.1% |
-| ★ Driver Gloves \| Rezan the Red (Field-Tested) | gloves_MW_FT | 3 | 94.7 | 2.0% | 1.0% |
-| MAC-10 \| Silver (Factory New) | gun_FN | 2 | 92.9 | -25.7% | -27.9% |
-| Tec-9 \| Rebel (Factory New) | gun_FN | 2 | 46.5 | -18.2% | -36.6% |
-| MAC-10 \| Sienna Damask (Factory New) | gun_FN | 3 | 0.2 | 50.0% | 63.4% |
+| Tec-9 \| Raw Ceramic (Factory New) | gun_FN | 2 | 97.3 | -26.3% | -44.0% |
+| MAC-10 \| Surfwood (Factory New) | gun_FN | 2 | 96.5 | -17.4% | -36.7% |
+| MP7 \| Short Ochre (Factory New) | gun_FN | 2 | 96.1 | -18.4% | 3.3% |
+| P90 \| Wash me (Factory New) | gun_FN | 2 | 46.5 | -19.2% | -21.3% |
