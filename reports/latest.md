@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-18
-- 最新K线日期：2026-10-18（距今 0 天）
-- 有效饰品：1571；候选：7
+- 运行日期（日本时间）：2026-10-19
+- 最新K线日期：2026-10-19（距今 0 天）
+- 有效饰品：1571；候选：18
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,10 +16,21 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Desert Eagle \| Light Rail (Factory New) | gun_FN | 3 | 95.3 | 6.7% | 27.7% |
-| M4A4 \| Hellish (Factory New) | gun_FN | 3 | 95.3 | 9.4% | 1.0% |
-| AUG \| Sweeper (Factory New) | gun_FN | 2 | 93.3 | -15.4% | -54.2% |
-| Dual Berettas \| Urban Shock (Factory New) | gun_FN | 2 | 92.6 | -18.3% | -54.6% |
-| FAMAS \| Mecha Industries (Factory New) | gun_FN | 3 | 46.2 | 4.0% | 10.5% |
-| P90 \| Neoqueen (Factory New) | gun_FN | 3 | 46.2 | 16.1% | 12.8% |
-| M4A4 \| Naval Shred Camo (Factory New) | gun_FN | 3 | 0.5 | 22.6% | 10.1% |
+| Tec-9 \| Whiteout (Factory New) | gun_FN | 1 | 99.9 | 11.5% | -13.5% |
+| MP9 \| Pine (Factory New) | gun_FN | 2 | 99.3 | -35.3% | -56.0% |
+| Tec-9 \| Flash Out (Factory New) | gun_FN | 2 | 98.9 | -30.4% | -45.7% |
+| P90 \| Fallout Warning (Factory New) | gun_FN | 3 | 97.5 | 7.3% | 10.7% |
+| P250 \| Exchanger (Factory New) | gun_FN | 3 | 94.5 | 18.7% | 10.9% |
+| P90 \| Facility Negative (Factory New) | gun_FN | 3 | 94.5 | 20.3% | 12.7% |
+| MP9 \| Orange Peel (Factory New) | gun_FN | 3 | 93.4 | 26.6% | 40.5% |
+| AUG \| Storm (Factory New) | gun_FN | 2 | 46.6 | -15.6% | -30.1% |
+| Desert Eagle \| Calligraffiti (Factory New) | gun_FN | 2 | 46.6 | -15.4% | -33.0% |
+| Dual Berettas \| Contractor (Factory New) | gun_FN | 2 | 46.6 | -18.5% | -33.3% |
+| Dual Berettas \| Moon in Libra (Factory New) | gun_FN | 2 | 46.6 | -17.3% | -24.6% |
+| Galil AR \| Stone Cold (Factory New) | gun_FN | 3 | 46.6 | 17.3% | 3.5% |
+| Glock-18 \| Bunsen Burner (Factory New) | gun_FN | 3 | 46.6 | 7.0% | 8.6% |
+| Glock-18 \| Catacombs (Factory New) | gun_FN | 3 | 46.6 | 9.7% | 15.0% |
+| Glock-18 \| Off World (Factory New) | gun_FN | 3 | 46.6 | 22.0% | 35.2% |
+| MP7 \| Sunbaked (Factory New) | gun_FN | 2 | 46.6 | -19.9% | -37.7% |
+| P2000 \| Dispatch (Factory New) | gun_FN | 3 | 46.6 | -4.3% | 1.1% |
+| SG 553 \| Basket Halftone (Factory New) | gun_FN | 3 | 0.9 | 16.7% | 5.5% |
