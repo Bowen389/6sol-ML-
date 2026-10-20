@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-19
-- 最新K线日期：2026-10-19（距今 0 天）
-- 有效饰品：1571；候选：18
+- 运行日期（日本时间）：2026-10-20
+- 最新K线日期：2026-10-20（距今 0 天）
+- 有效饰品：1571；候选：16
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,21 +16,19 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Tec-9 \| Whiteout (Factory New) | gun_FN | 1 | 99.9 | 11.5% | -13.5% |
-| MP9 \| Pine (Factory New) | gun_FN | 2 | 99.3 | -35.3% | -56.0% |
-| Tec-9 \| Flash Out (Factory New) | gun_FN | 2 | 98.9 | -30.4% | -45.7% |
-| P90 \| Fallout Warning (Factory New) | gun_FN | 3 | 97.5 | 7.3% | 10.7% |
-| P250 \| Exchanger (Factory New) | gun_FN | 3 | 94.5 | 18.7% | 10.9% |
-| P90 \| Facility Negative (Factory New) | gun_FN | 3 | 94.5 | 20.3% | 12.7% |
-| MP9 \| Orange Peel (Factory New) | gun_FN | 3 | 93.4 | 26.6% | 40.5% |
-| AUG \| Storm (Factory New) | gun_FN | 2 | 46.6 | -15.6% | -30.1% |
-| Desert Eagle \| Calligraffiti (Factory New) | gun_FN | 2 | 46.6 | -15.4% | -33.0% |
-| Dual Berettas \| Contractor (Factory New) | gun_FN | 2 | 46.6 | -18.5% | -33.3% |
-| Dual Berettas \| Moon in Libra (Factory New) | gun_FN | 2 | 46.6 | -17.3% | -24.6% |
-| Galil AR \| Stone Cold (Factory New) | gun_FN | 3 | 46.6 | 17.3% | 3.5% |
-| Glock-18 \| Bunsen Burner (Factory New) | gun_FN | 3 | 46.6 | 7.0% | 8.6% |
-| Glock-18 \| Catacombs (Factory New) | gun_FN | 3 | 46.6 | 9.7% | 15.0% |
-| Glock-18 \| Off World (Factory New) | gun_FN | 3 | 46.6 | 22.0% | 35.2% |
-| MP7 \| Sunbaked (Factory New) | gun_FN | 2 | 46.6 | -19.9% | -37.7% |
-| P2000 \| Dispatch (Factory New) | gun_FN | 3 | 46.6 | -4.3% | 1.1% |
-| SG 553 \| Basket Halftone (Factory New) | gun_FN | 3 | 0.9 | 16.7% | 5.5% |
+| MP7 \| Prey (Factory New) | gun_FN | 3 | 98.5 | 24.6% | 7.5% |
+| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 98.5 | 5.3% | 37.1% |
+| P90 \| Fallout Warning (Factory New) | gun_FN | 3 | 97.5 | 11.6% | 14.7% |
+| Galil AR \| Stone Cold (Factory New) | gun_FN | 3 | 95.0 | 19.9% | 5.3% |
+| Glock-18 \| Wraiths (Factory New) | gun_FN | 3 | 95.0 | 23.8% | 2.8% |
+| M4A4 \| Naval Shred Camo (Factory New) | gun_FN | 3 | 95.0 | 35.6% | 20.3% |
+| P250 \| Constructivist (Factory New) | gun_FN | 3 | 95.0 | 25.0% | 4.9% |
+| P250 \| Exchanger (Factory New) | gun_FN | 3 | 95.0 | 26.1% | 13.8% |
+| XM1014 \| Run Run Run (Factory New) | gun_FN | 3 | 95.0 | 29.3% | 5.0% |
+| MAG-7 \| Counter Terrace (Factory New) | gun_FN | 3 | 46.8 | 1.0% | 3.3% |
+| MAG-7 \| Navy Sheen (Factory New) | gun_FN | 3 | 46.8 | 0.0% | 1.5% |
+| Trapper Aggressor \| Guerrilla Warfare | agent | 3 | 46.8 | 5.4% | 1.8% |
+| MAC-10 \| Palm (Factory New) | gun_FN | 3 | 0.4 | 17.3% | 13.6% |
+| MAC-10 \| Derailment (Factory New) | gun_FN | 3 | 0.3 | 57.2% | 16.2% |
+| FAMAS \| 2A2F (Factory New) | gun_FN | 3 | 0.2 | 72.7% | 46.1% |
+| PP-Bizon \| Thermal Currents (Factory New) | gun_FN | 3 | 0.1 | 142.9% | 13.3% |
