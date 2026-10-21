@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-20
-- 最新K线日期：2026-10-20（距今 0 天）
-- 有效饰品：1571；候选：16
+- 运行日期（日本时间）：2026-10-21
+- 最新K线日期：2026-10-21（距今 0 天）
+- 有效饰品：1570；候选：17
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,19 +16,20 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| MP7 \| Prey (Factory New) | gun_FN | 3 | 98.5 | 24.6% | 7.5% |
-| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 98.5 | 5.3% | 37.1% |
-| P90 \| Fallout Warning (Factory New) | gun_FN | 3 | 97.5 | 11.6% | 14.7% |
-| Galil AR \| Stone Cold (Factory New) | gun_FN | 3 | 95.0 | 19.9% | 5.3% |
-| Glock-18 \| Wraiths (Factory New) | gun_FN | 3 | 95.0 | 23.8% | 2.8% |
-| M4A4 \| Naval Shred Camo (Factory New) | gun_FN | 3 | 95.0 | 35.6% | 20.3% |
-| P250 \| Constructivist (Factory New) | gun_FN | 3 | 95.0 | 25.0% | 4.9% |
-| P250 \| Exchanger (Factory New) | gun_FN | 3 | 95.0 | 26.1% | 13.8% |
-| XM1014 \| Run Run Run (Factory New) | gun_FN | 3 | 95.0 | 29.3% | 5.0% |
-| MAG-7 \| Counter Terrace (Factory New) | gun_FN | 3 | 46.8 | 1.0% | 3.3% |
-| MAG-7 \| Navy Sheen (Factory New) | gun_FN | 3 | 46.8 | 0.0% | 1.5% |
-| Trapper Aggressor \| Guerrilla Warfare | agent | 3 | 46.8 | 5.4% | 1.8% |
-| MAC-10 \| Palm (Factory New) | gun_FN | 3 | 0.4 | 17.3% | 13.6% |
-| MAC-10 \| Derailment (Factory New) | gun_FN | 3 | 0.3 | 57.2% | 16.2% |
-| FAMAS \| 2A2F (Factory New) | gun_FN | 3 | 0.2 | 72.7% | 46.1% |
-| PP-Bizon \| Thermal Currents (Factory New) | gun_FN | 3 | 0.1 | 142.9% | 13.3% |
+| PP-Bizon \| Embargo (Factory New) | gun_FN | 1 | 100.0 | 16.7% | -12.7% |
+| P250 \| Sleet (Factory New) | gun_FN | 2 | 99.2 | -18.8% | -40.9% |
+| ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | gloves_MW_FT | 3 | 98.9 | 6.7% | 41.4% |
+| G3SG1 \| Red Jasper (Factory New) | gun_FN | 3 | 95.4 | 54.5% | 21.4% |
+| Glock-18 \| Catacombs (Factory New) | gun_FN | 3 | 95.4 | 34.5% | 33.3% |
+| P90 \| Fallout Warning (Factory New) | gun_FN | 3 | 95.4 | 32.5% | 36.6% |
+| Valeria Phoenix Pin | agent | 3 | 95.4 | 11.8% | 8.6% |
+| USP-S \| Silent Shot (Factory New) | gun_FN | 3 | 93.8 | 5.4% | 3.9% |
+| Desert Eagle \| Code Red (Factory New) | gun_FN | 3 | 49.1 | 9.3% | 9.4% |
+| Desert Eagle \| Conspiracy (Factory New) | gun_FN | 3 | 49.1 | 20.8% | 9.4% |
+| Desert Eagle \| Light Rail (Factory New) | gun_FN | 3 | 49.1 | 23.9% | 45.4% |
+| Glock-18 \| Off World (Factory New) | gun_FN | 3 | 49.1 | 26.7% | 50.0% |
+| M4A4 \| Falak (Factory New) | gun_FN | 3 | 49.1 | 13.4% | 7.0% |
+| MAC-10 \| Carnivore (Factory New) | gun_FN | 3 | 49.1 | 23.3% | 0.3% |
+| MAG-7 \| Counter Terrace (Factory New) | gun_FN | 3 | 49.1 | 7.4% | 8.3% |
+| Tec-9 \| Blast From the Past (Factory New) | gun_FN | 3 | 49.1 | 0.2% | 0.2% |
+| FAMAS \| Byproduct (Factory New) | gun_FN | 3 | 0.2 | 50.0% | 15.4% |
