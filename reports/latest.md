@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-23
-- 最新K线日期：2026-10-23（距今 0 天）
-- 有效饰品：1570；候选：12
+- 运行日期（日本时间）：2026-10-24
+- 最新K线日期：2026-10-24（距今 0 天）
+- 有效饰品：1570；候选：13
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,15 +16,16 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| P2000 \| Gnarled (Factory New) | gun_FN | 1 | 100.0 | 18.2% | -11.9% |
-| AUG \| Aristocrat (Factory New) | gun_FN | 3 | 94.6 | 30.1% | 12.7% |
-| AUG \| Surveillance (Factory New) | gun_FN | 3 | 94.6 | 25.6% | 2.2% |
-| Glock-18 \| Night (Factory New) | gun_FN | 3 | 94.6 | 11.0% | 4.9% |
-| PP-Bizon \| Photic Zone (Factory New) | gun_FN | 3 | 94.6 | 10.4% | 1.2% |
-| MP7 \| Guerrilla (Factory New) | gun_FN | 2 | 92.9 | -26.9% | -48.4% |
-| USP-S \| Silent Shot (Factory New) | gun_FN | 3 | 92.7 | 5.0% | 10.6% |
-| MP9 \| Bioleak (Factory New) | gun_FN | 3 | 47.6 | 6.1% | 14.0% |
-| P250 \| Black & Tan (Factory New) | gun_FN | 3 | 47.6 | 9.5% | 15.1% |
-| ★ Sport Gloves \| Violet Beadwork (Field-Tested) | gloves_MW_FT | 3 | 47.6 | 3.1% | 2.5% |
-| FAMAS \| Eye of Athena (Factory New) | gun_FN | 3 | 2.2 | 45.8% | 3.9% |
-| P2000 \| Acid Etched (Factory New) | gun_FN | 3 | 2.2 | 66.8% | 6.8% |
+| FAMAS \| Decommissioned (Factory New) | gun_FN | 3 | 95.4 | 56.9% | 3.2% |
+| Five-SeveN \| Desert Seal (Factory New) | gun_FN | 3 | 95.4 | 28.0% | 21.4% |
+| G3SG1 \| Polar Camo (Factory New) | gun_FN | 3 | 95.4 | 11.2% | 2.6% |
+| Glock-18 \| Night (Factory New) | gun_FN | 3 | 95.4 | 16.1% | 10.3% |
+| P90 \| Fallout Warning (Factory New) | gun_FN | 3 | 95.4 | 32.9% | 36.8% |
+| PP-Bizon \| Photic Zone (Factory New) | gun_FN | 3 | 95.4 | 25.3% | 12.4% |
+| UMP-45 \| Minotaur's Labyrinth (Factory New) | gun_FN | 3 | 95.4 | 5.1% | 3.2% |
+| MP7 \| Short Ochre (Factory New) | gun_FN | 2 | 93.8 | -25.0% | -35.1% |
+| AUG \| Spalted Wood (Factory New) | gun_FN | 3 | 48.0 | 24.8% | 14.0% |
+| G3SG1 \| Demeter (Factory New) | gun_FN | 3 | 48.0 | 3.6% | 4.5% |
+| MAC-10 \| Acid Hex (Factory New) | gun_FN | 3 | 48.0 | 5.0% | 18.3% |
+| P2000 \| Chainmail (Factory New) | gun_FN | 3 | 48.0 | 0.0% | 2.4% |
+| Trapper \| Guerrilla Warfare | agent | 3 | 48.0 | 2.3% | 1.7% |
