@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-10-30
-- 最新K线日期：2026-10-30（距今 0 天）
-- 有效饰品：1571；候选：12
+- 运行日期（日本时间）：2026-10-31
+- 最新K线日期：2026-10-31（距今 0 天）
+- 有效饰品：1571；候选：14
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,15 +16,17 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Charm \| Lil' SAS | agent | 3 | 95.2 | 15.4% | 1.9% |
-| MP9 \| Green Plaid (Factory New) | gun_FN | 3 | 95.2 | 42.9% | 14.8% |
-| P90 \| Run and Hide (Factory New) | gun_FN | 3 | 95.2 | 9.4% | 13.0% |
-| Sawed-Off \| Parched (Factory New) | gun_FN | 3 | 95.2 | 18.0% | 0.5% |
-| XM1014 \| Jungle (Factory New) | gun_FN | 3 | 95.2 | 25.6% | 25.6% |
-| AUG \| Lapis Lazuli (Factory New) | gun_FN | 3 | 46.5 | 0.9% | 2.0% |
-| CZ75-Auto \| Chalice (Factory New) | gun_FN | 3 | 46.5 | 4.2% | 8.6% |
-| CZ75-Auto \| Tread Plate (Factory New) | gun_FN | 2 | 46.5 | -17.7% | -19.8% |
-| G3SG1 \| Desert Storm (Factory New) | gun_FN | 3 | 46.5 | 8.2% | 3.1% |
-| MP9 \| Orange Peel (Factory New) | gun_FN | 3 | 46.5 | 4.5% | 16.9% |
-| XM1014 \| Bone Machine (Factory New) | gun_FN | 3 | 46.5 | 1.6% | 9.5% |
-| P2000 \| Granite Marbleized (Factory New) | gun_FN | 3 | 0.6 | 29.7% | 21.8% |
+| FAMAS \| ZX Spectron (Factory New) | gun_FN | 3 | 94.9 | 13.1% | 10.4% |
+| Five-SeveN \| Scumbria (Factory New) | gun_FN | 3 | 94.9 | 27.7% | 27.4% |
+| P90 \| Run and Hide (Factory New) | gun_FN | 3 | 94.9 | 18.8% | 20.4% |
+| P90 \| Shapewood (Factory New) | gun_FN | 3 | 94.9 | 16.9% | 1.5% |
+| PP-Bizon \| Anolis (Factory New) | gun_FN | 3 | 94.9 | 16.2% | 10.2% |
+| Tec-9 \| Orange Murano (Factory New) | gun_FN | 3 | 94.9 | 21.8% | 2.2% |
+| MP7 \| Short Ochre (Factory New) | gun_FN | 2 | 92.3 | -24.2% | -41.9% |
+| AUG \| Lapis Lazuli (Factory New) | gun_FN | 3 | 46.5 | 1.0% | 2.1% |
+| CZ75-Auto \| Pole Position (Factory New) | gun_FN | 3 | 46.5 | -0.7% | 2.5% |
+| Dual Berettas \| Angel Eyes (Factory New) | gun_FN | 3 | 46.5 | -0.2% | 3.3% |
+| Galil AR \| Acid Dart (Factory New) | gun_FN | 3 | 46.5 | 2.5% | 10.8% |
+| Galil AR \| Sage Spray (Factory New) | gun_FN | 3 | 46.5 | -2.8% | 2.7% |
+| Tec-9 \| Titanium Bit (Factory New) | gun_FN | 2 | 46.5 | -19.6% | -41.5% |
+| CZ75-Auto \| Jungle Dashed (Factory New) | gun_FN | 3 | 0.1 | 26.1% | 23.8% |
