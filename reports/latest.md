@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-02
-- 最新K线日期：2026-11-02（距今 0 天）
-- 有效饰品：1570；候选：16
+- 运行日期（日本时间）：2026-11-03
+- 最新K线日期：2026-11-03（距今 0 天）
+- 有效饰品：1571；候选：15
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,19 +16,18 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Tec-9 \| Army Mesh (Factory New) | gun_FN | 2 | 99.0 | -20.7% | -30.3% |
-| MP9 \| Slide (Factory New) | gun_FN | 3 | 98.6 | 18.6% | 13.9% |
-| AWP \| BOOM (Factory New) | gun_FN | 3 | 95.5 | 9.0% | 1.7% |
-| FAMAS \| ZX Spectron (Factory New) | gun_FN | 3 | 95.5 | 26.0% | 17.4% |
-| P90 \| Run and Hide (Factory New) | gun_FN | 3 | 95.5 | 7.2% | 30.1% |
-| PP-Bizon \| RMX (Factory New) | gun_FN | 3 | 95.5 | 4.2% | 8.0% |
-| SSG 08 \| Blue Spruce (Factory New) | gun_FN | 3 | 95.5 | 17.8% | 6.4% |
-| Tec-9 \| Blue Blast (Factory New) | gun_FN | 3 | 95.5 | 5.0% | 8.6% |
-| ★ Hydra Gloves \| Mangrove (Field-Tested) | gloves_MW_FT | 3 | 95.5 | 1.2% | 1.7% |
-| PP-Bizon \| Rust Coat (Factory New) | gun_FN | 3 | 92.7 | -21.5% | 66.9% |
-| Desert Eagle \| Hand Cannon (Factory New) | gun_FN | 3 | 47.1 | 4.7% | 8.1% |
-| G3SG1 \| Stinger (Factory New) | gun_FN | 3 | 47.1 | 1.1% | 3.2% |
-| Galil AR \| CAUTION! (Factory New) | gun_FN | 3 | 47.1 | 0.5% | 10.4% |
-| P90 \| Traction (Factory New) | gun_FN | 3 | 47.1 | 5.3% | 3.5% |
-| Tec-9 \| Orange Murano (Factory New) | gun_FN | 3 | 47.1 | 14.1% | 3.2% |
-| ★ Driver Gloves \| Convoy (Minimal Wear) | gloves_MW_FT | 3 | 1.6 | 32.1% | 19.6% |
+| PP-Bizon \| Rust Coat (Factory New) | gun_FN | 3 | 97.6 | 35.4% | 104.6% |
+| AUG \| Triqua (Factory New) | gun_FN | 3 | 94.4 | 13.9% | 36.5% |
+| M4A1-S \| Boreal Forest (Factory New) | gun_FN | 3 | 94.4 | 45.3% | 34.3% |
+| MAG-7 \| Irradiated Alert (Factory New) | gun_FN | 3 | 94.4 | 0.2% | 10.3% |
+| Sawed-Off \| Amber Fade (Factory New) | gun_FN | 3 | 94.4 | 12.4% | 35.0% |
+| UMP-45 \| Urban DDPAT (Factory New) | gun_FN | 3 | 94.4 | 13.8% | 28.8% |
+| G3SG1 \| Polar Camo (Factory New) | gun_FN | 3 | 46.2 | 5.0% | 16.2% |
+| G3SG1 \| Stinger (Factory New) | gun_FN | 3 | 46.2 | 15.1% | 8.9% |
+| Glock-18 \| Red Tire (Factory New) | gun_FN | 3 | 46.2 | 26.4% | 4.7% |
+| M4A4 \| Urban DDPAT (Factory New) | gun_FN | 3 | 46.2 | 10.5% | 64.8% |
+| MAC-10 \| Urban DDPAT (Factory New) | gun_FN | 3 | 46.2 | 7.2% | 4.8% |
+| PP-Bizon \| RMX (Factory New) | gun_FN | 3 | 46.2 | 15.4% | 18.2% |
+| USP-S \| Pathfinder (Factory New) | gun_FN | 3 | 46.2 | 25.6% | 9.2% |
+| Five-SeveN \| Scumbria (Factory New) | gun_FN | 3 | 0.2 | 94.5% | 60.2% |
+| AUG \| Ricochet (Factory New) | gun_FN | 3 | 0.1 | 29.2% | 9.5% |
