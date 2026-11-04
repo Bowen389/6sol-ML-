@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-03
-- 最新K线日期：2026-11-03（距今 0 天）
-- 有效饰品：1571；候选：15
+- 运行日期（日本时间）：2026-11-04
+- 最新K线日期：2026-11-04（距今 0 天）
+- 有效饰品：1571；候选：23
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,18 +16,26 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| PP-Bizon \| Rust Coat (Factory New) | gun_FN | 3 | 97.6 | 35.4% | 104.6% |
-| AUG \| Triqua (Factory New) | gun_FN | 3 | 94.4 | 13.9% | 36.5% |
-| M4A1-S \| Boreal Forest (Factory New) | gun_FN | 3 | 94.4 | 45.3% | 34.3% |
-| MAG-7 \| Irradiated Alert (Factory New) | gun_FN | 3 | 94.4 | 0.2% | 10.3% |
-| Sawed-Off \| Amber Fade (Factory New) | gun_FN | 3 | 94.4 | 12.4% | 35.0% |
-| UMP-45 \| Urban DDPAT (Factory New) | gun_FN | 3 | 94.4 | 13.8% | 28.8% |
-| G3SG1 \| Polar Camo (Factory New) | gun_FN | 3 | 46.2 | 5.0% | 16.2% |
-| G3SG1 \| Stinger (Factory New) | gun_FN | 3 | 46.2 | 15.1% | 8.9% |
-| Glock-18 \| Red Tire (Factory New) | gun_FN | 3 | 46.2 | 26.4% | 4.7% |
-| M4A4 \| Urban DDPAT (Factory New) | gun_FN | 3 | 46.2 | 10.5% | 64.8% |
-| MAC-10 \| Urban DDPAT (Factory New) | gun_FN | 3 | 46.2 | 7.2% | 4.8% |
-| PP-Bizon \| RMX (Factory New) | gun_FN | 3 | 46.2 | 15.4% | 18.2% |
-| USP-S \| Pathfinder (Factory New) | gun_FN | 3 | 46.2 | 25.6% | 9.2% |
-| Five-SeveN \| Scumbria (Factory New) | gun_FN | 3 | 0.2 | 94.5% | 60.2% |
-| AUG \| Ricochet (Factory New) | gun_FN | 3 | 0.1 | 29.2% | 9.5% |
+| AK-47 \| Phantom Disruptor (Factory New) | gun_FN | 3 | 96.8 | 30.5% | 88.0% |
+| SCAR-20 \| Splash Jam (Factory New) | gun_FN | 3 | 96.7 | 0.0% | 89.4% |
+| CZ75-Auto \| Green Plaid (Factory New) | gun_FN | 3 | 94.6 | 21.3% | 25.0% |
+| MAG-7 \| Irradiated Alert (Factory New) | gun_FN | 3 | 94.6 | 0.3% | 10.3% |
+| P90 \| Off World (Factory New) | gun_FN | 3 | 94.6 | 15.2% | 12.2% |
+| SCAR-20 \| Storm (Factory New) | gun_FN | 3 | 94.6 | 4.7% | 14.2% |
+| SSG 08 \| Detour (Factory New) | gun_FN | 3 | 94.6 | 10.6% | 2.9% |
+| ★ Driver Gloves \| Lunar Weave (Minimal Wear) | gloves_MW_FT | 3 | 94.6 | 10.5% | 21.8% |
+| M4A4 \| Urban DDPAT (Factory New) | gun_FN | 3 | 93.5 | 21.6% | 89.6% |
+| AUG \| Anodized Navy (Factory New) | gun_FN | 3 | 46.0 | 3.4% | 3.5% |
+| FAMAS \| Decommissioned (Factory New) | gun_FN | 3 | 46.0 | 8.8% | 11.1% |
+| M4A4 \| Falak (Factory New) | gun_FN | 3 | 46.0 | 2.0% | 0.9% |
+| M4A4 \| Zubastick (Factory New) | gun_FN | 3 | 46.0 | 12.6% | 4.7% |
+| R8 Revolver \| Nitro (Factory New) | gun_FN | 2 | 46.0 | -16.2% | -27.7% |
+| Tec-9 \| Jambiya (Factory New) | gun_FN | 3 | 46.0 | 16.0% | 9.3% |
+| UMP-45 \| Briefing (Factory New) | gun_FN | 3 | 46.0 | -2.6% | 8.4% |
+| ★ Driver Gloves \| Brocade Crane (Field-Tested) | gloves_MW_FT | 3 | 46.0 | 0.3% | 0.8% |
+| ★ Driver Gloves \| Convoy (Minimal Wear) | gloves_MW_FT | 3 | 46.0 | 18.8% | 32.4% |
+| ★ Moto Gloves \| Transport (Field-Tested) | gloves_MW_FT | 3 | 46.0 | 2.3% | 2.2% |
+| Glock-18 \| Red Tire (Factory New) | gun_FN | 3 | 1.2 | 43.9% | 21.4% |
+| Tec-9 \| Orange Murano (Factory New) | gun_FN | 3 | 1.2 | 29.3% | 16.4% |
+| USP-S \| Pathfinder (Factory New) | gun_FN | 3 | 1.2 | 32.0% | 29.7% |
+| FAMAS \| ZX Spectron (Factory New) | gun_FN | 3 | 0.3 | 50.6% | 63.1% |
