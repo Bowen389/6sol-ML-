@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-04
-- 最新K线日期：2026-11-04（距今 0 天）
-- 有效饰品：1571；候选：23
+- 运行日期（日本时间）：2026-11-05
+- 最新K线日期：2026-11-05（距今 0 天）
+- 有效饰品：1570；候选：54
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,26 +16,55 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| AK-47 \| Phantom Disruptor (Factory New) | gun_FN | 3 | 96.8 | 30.5% | 88.0% |
-| SCAR-20 \| Splash Jam (Factory New) | gun_FN | 3 | 96.7 | 0.0% | 89.4% |
-| CZ75-Auto \| Green Plaid (Factory New) | gun_FN | 3 | 94.6 | 21.3% | 25.0% |
-| MAG-7 \| Irradiated Alert (Factory New) | gun_FN | 3 | 94.6 | 0.3% | 10.3% |
-| P90 \| Off World (Factory New) | gun_FN | 3 | 94.6 | 15.2% | 12.2% |
-| SCAR-20 \| Storm (Factory New) | gun_FN | 3 | 94.6 | 4.7% | 14.2% |
-| SSG 08 \| Detour (Factory New) | gun_FN | 3 | 94.6 | 10.6% | 2.9% |
-| ★ Driver Gloves \| Lunar Weave (Minimal Wear) | gloves_MW_FT | 3 | 94.6 | 10.5% | 21.8% |
-| M4A4 \| Urban DDPAT (Factory New) | gun_FN | 3 | 93.5 | 21.6% | 89.6% |
-| AUG \| Anodized Navy (Factory New) | gun_FN | 3 | 46.0 | 3.4% | 3.5% |
-| FAMAS \| Decommissioned (Factory New) | gun_FN | 3 | 46.0 | 8.8% | 11.1% |
-| M4A4 \| Falak (Factory New) | gun_FN | 3 | 46.0 | 2.0% | 0.9% |
-| M4A4 \| Zubastick (Factory New) | gun_FN | 3 | 46.0 | 12.6% | 4.7% |
-| R8 Revolver \| Nitro (Factory New) | gun_FN | 2 | 46.0 | -16.2% | -27.7% |
-| Tec-9 \| Jambiya (Factory New) | gun_FN | 3 | 46.0 | 16.0% | 9.3% |
-| UMP-45 \| Briefing (Factory New) | gun_FN | 3 | 46.0 | -2.6% | 8.4% |
-| ★ Driver Gloves \| Brocade Crane (Field-Tested) | gloves_MW_FT | 3 | 46.0 | 0.3% | 0.8% |
-| ★ Driver Gloves \| Convoy (Minimal Wear) | gloves_MW_FT | 3 | 46.0 | 18.8% | 32.4% |
-| ★ Moto Gloves \| Transport (Field-Tested) | gloves_MW_FT | 3 | 46.0 | 2.3% | 2.2% |
-| Glock-18 \| Red Tire (Factory New) | gun_FN | 3 | 1.2 | 43.9% | 21.4% |
-| Tec-9 \| Orange Murano (Factory New) | gun_FN | 3 | 1.2 | 29.3% | 16.4% |
-| USP-S \| Pathfinder (Factory New) | gun_FN | 3 | 1.2 | 32.0% | 29.7% |
-| FAMAS \| ZX Spectron (Factory New) | gun_FN | 3 | 0.3 | 50.6% | 63.1% |
+| AK-47 \| Phantom Disruptor (Factory New) | gun_FN | 3 | 98.7 | 27.8% | 90.2% |
+| M4A4 \| Urban DDPAT (Factory New) | gun_FN | 3 | 98.7 | 24.6% | 91.2% |
+| MAC-10 \| Urban DDPAT (Factory New) | gun_FN | 3 | 97.9 | 1.2% | 6.3% |
+| P90 \| Sand Spray (Factory New) | gun_FN | 3 | 97.6 | -1.1% | 30.6% |
+| SCAR-20 \| Splash Jam (Factory New) | gun_FN | 3 | 97.3 | 0.1% | 89.4% |
+| MP7 \| Prey (Factory New) | gun_FN | 2 | 97.0 | -19.4% | -35.6% |
+| SSG 08 \| Prey (Factory New) | gun_FN | 2 | 97.0 | -17.1% | -38.4% |
+| CZ75-Auto \| Chalice (Factory New) | gun_FN | 3 | 95.4 | 11.3% | 15.3% |
+| CZ75-Auto \| Silver (Factory New) | gun_FN | 3 | 95.4 | 8.7% | 5.6% |
+| FAMAS \| Decommissioned (Factory New) | gun_FN | 3 | 95.4 | 38.6% | 81.5% |
+| FAMAS \| Faulty Wiring (Factory New) | gun_FN | 3 | 95.4 | 22.8% | 14.8% |
+| FAMAS \| Neural Net (Factory New) | gun_FN | 3 | 95.4 | 28.0% | 22.0% |
+| FAMAS \| Pulse (Factory New) | gun_FN | 3 | 95.4 | 17.6% | 20.6% |
+| Five-SeveN \| Buddy (Factory New) | gun_FN | 3 | 95.4 | 22.3% | 14.5% |
+| M4A1-S \| Player Two (Factory New) | gun_FN | 3 | 95.4 | 19.5% | 0.7% |
+| M4A4 \| Falak (Factory New) | gun_FN | 3 | 95.4 | 14.0% | 10.7% |
+| MP9 \| Orange Peel (Factory New) | gun_FN | 3 | 95.4 | 6.8% | 18.7% |
+| P2000 \| Acid Etched (Factory New) | gun_FN | 3 | 95.4 | 32.1% | 79.6% |
+| P90 \| Scorched (Factory New) | gun_FN | 3 | 95.4 | 7.8% | 7.3% |
+| SCAR-20 \| Storm (Factory New) | gun_FN | 3 | 95.4 | 5.3% | 26.4% |
+| SSG 08 \| Fever Dream (Factory New) | gun_FN | 3 | 95.4 | 13.5% | 7.1% |
+| Sawed-Off \| Apocalypto (Factory New) | gun_FN | 3 | 95.4 | 9.5% | 0.8% |
+| UMP-45 \| Urban DDPAT (Factory New) | gun_FN | 3 | 95.4 | 9.6% | 34.0% |
+| USP-S \| Forest Leaves (Factory New) | gun_FN | 3 | 95.4 | 42.9% | 66.6% |
+| ★ Moto Gloves \| Cool Mint (Minimal Wear) | gloves_MW_FT | 3 | 95.4 | 8.6% | 19.7% |
+| AK-47 \| Safari Mesh (Factory New) | gun_FN | 3 | 47.5 | 14.4% | 12.0% |
+| AWP \| Capillary (Factory New) | gun_FN | 3 | 47.5 | 14.5% | 6.4% |
+| AWP \| Phobos (Factory New) | gun_FN | 3 | 47.5 | 1.2% | 6.1% |
+| Desert Eagle \| Conspiracy (Factory New) | gun_FN | 3 | 47.5 | 6.7% | 7.8% |
+| FAMAS \| Colony (Factory New) | gun_FN | 3 | 47.5 | 24.7% | 9.8% |
+| Five-SeveN \| Candy Apple (Factory New) | gun_FN | 2 | 47.5 | -17.8% | -31.2% |
+| Galil AR \| Robin's Egg (Factory New) | gun_FN | 3 | 47.5 | 3.8% | 1.9% |
+| Galil AR \| Stone Cold (Factory New) | gun_FN | 3 | 47.5 | -2.0% | 2.6% |
+| Glock-18 \| Sacrifice (Factory New) | gun_FN | 3 | 47.5 | 0.0% | 12.4% |
+| Glock-18 \| Water Elemental (Factory New) | gun_FN | 3 | 47.5 | -1.4% | 14.3% |
+| Glock-18 \| Weasel (Factory New) | gun_FN | 2 | 47.5 | -15.7% | -37.0% |
+| Glock-18 \| Wraiths (Factory New) | gun_FN | 3 | 47.5 | -1.5% | 8.3% |
+| MAC-10 \| Disco Tech (Factory New) | gun_FN | 3 | 47.5 | 22.6% | 11.1% |
+| MAG-7 \| Memento (Factory New) | gun_FN | 3 | 47.5 | -0.4% | 31.4% |
+| MP7 \| Ocean Foam (Factory New) | gun_FN | 3 | 47.5 | 3.4% | 12.4% |
+| P2000 \| Pulse (Factory New) | gun_FN | 3 | 47.5 | 6.2% | 16.9% |
+| P250 \| Boreal Forest (Factory New) | gun_FN | 3 | 47.5 | 10.3% | 10.9% |
+| P90 \| Desert Warfare (Factory New) | gun_FN | 3 | 47.5 | 8.7% | 9.1% |
+| P90 \| Facility Negative (Factory New) | gun_FN | 3 | 47.5 | 5.7% | 10.2% |
+| PP-Bizon \| RMX (Factory New) | gun_FN | 3 | 47.5 | 19.2% | 21.3% |
+| Poorly Drawn Capsule | agent | 3 | 47.5 | 3.1% | 12.8% |
+| ★ Driver Gloves \| Convoy (Minimal Wear) | gloves_MW_FT | 3 | 47.5 | 22.1% | 39.3% |
+| ★ Driver Gloves \| Diamondback (Minimal Wear) | gloves_MW_FT | 3 | 47.5 | 7.5% | 17.8% |
+| ★ Specialist Gloves \| Foundation (Minimal Wear) | gloves_MW_FT | 3 | 47.5 | 0.8% | 3.4% |
+| FAMAS \| Cyanospatter (Factory New) | gun_FN | 3 | 2.0 | 35.6% | 41.5% |
+
+仅展示前50条；全部 54 条见CSV。
