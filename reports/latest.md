@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-13
-- 最新K线日期：2026-11-13（距今 0 天）
-- 有效饰品：1570；候选：129
+- 运行日期（日本时间）：2026-11-14
+- 最新K线日期：2026-11-14（距今 0 天）
+- 有效饰品：1571；候选：51
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,55 +16,55 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Desert Eagle \| Directive (Factory New) | gun_FN | 3 | 98.2 | 19.9% | 28.5% |
-| Glock-18 \| Ifrit Lattice (Factory New) | gun_FN | 3 | 98.2 | 42.4% | 59.9% |
-| Glock-18 \| Water Elemental (Factory New) | gun_FN | 3 | 98.2 | 72.9% | 100.4% |
-| Tec-9 \| Safety Net (Factory New) | gun_FN | 3 | 97.2 | 27.0% | 3.3% |
-| CZ75-Auto \| Honey Paisley (Factory New) | gun_FN | 2 | 96.6 | -16.7% | -16.7% |
-| AK-47 \| Legion of Anubis (Factory New) | gun_FN | 3 | 93.5 | 13.4% | 6.4% |
-| AUG \| Death by Puppy (Factory New) | gun_FN | 3 | 93.5 | 21.2% | 10.4% |
-| AUG \| Lapis Lazuli (Factory New) | gun_FN | 3 | 93.5 | 10.4% | 4.7% |
-| AUG \| Luxe Trim (Factory New) | gun_FN | 3 | 93.5 | 49.6% | 33.3% |
-| AUG \| Tom Cat (Factory New) | gun_FN | 3 | 93.5 | 13.9% | 25.9% |
-| AWP \| Worm God (Factory New) | gun_FN | 3 | 93.5 | 11.7% | 8.9% |
-| CZ75-Auto \| Tacticat (Factory New) | gun_FN | 3 | 93.5 | 19.2% | 9.5% |
-| CZ75-Auto \| Xiangliu (Factory New) | gun_FN | 3 | 93.5 | 11.8% | 4.2% |
-| Desert Eagle \| Firebreathing (Factory New) | gun_FN | 3 | 93.5 | 2.7% | 2.9% |
-| Desert Eagle \| Heirloom (Factory New) | gun_FN | 3 | 93.5 | 22.8% | 20.9% |
-| Dual Berettas \| Elite 1.6 (Factory New) | gun_FN | 3 | 93.5 | 9.4% | 11.7% |
-| Dual Berettas \| Shred (Factory New) | gun_FN | 3 | 93.5 | 13.7% | 14.0% |
-| FAMAS \| Afterimage (Factory New) | gun_FN | 3 | 93.5 | 9.3% | 3.0% |
-| Five-SeveN \| Flame Test (Factory New) | gun_FN | 3 | 93.5 | 69.6% | 14.7% |
-| Five-SeveN \| Forest Night (Factory New) | gun_FN | 3 | 93.5 | 8.5% | 45.5% |
-| M4A1-S \| VariCamo (Factory New) | gun_FN | 3 | 93.5 | 20.9% | 5.2% |
-| M4A4 \| Evil Daimyo (Factory New) | gun_FN | 3 | 93.5 | 32.1% | 20.6% |
-| MAC-10 \| Classic Crate (Factory New) | gun_FN | 3 | 93.5 | 66.1% | 54.9% |
-| MAG-7 \| Bulldozer (Factory New) | gun_FN | 3 | 93.5 | 21.8% | 27.4% |
-| MAG-7 \| Justice (Factory New) | gun_FN | 3 | 93.5 | 18.8% | 17.0% |
-| MP7 \| Armor Core (Factory New) | gun_FN | 3 | 93.5 | 24.6% | 11.5% |
-| MP7 \| Army Recon (Factory New) | gun_FN | 3 | 93.5 | 7.8% | 0.5% |
-| MP7 \| Powercore (Factory New) | gun_FN | 3 | 93.5 | 16.6% | 0.7% |
-| MP7 \| Urban Hazard (Factory New) | gun_FN | 3 | 93.5 | 43.3% | 16.4% |
-| MP9 \| Capillary (Factory New) | gun_FN | 3 | 93.5 | 53.9% | 42.7% |
-| MP9 \| Rose Iron (Factory New) | gun_FN | 3 | 93.5 | 44.6% | 48.8% |
-| P2000 \| Urban Hazard (Factory New) | gun_FN | 3 | 93.5 | 38.3% | 21.4% |
-| P250 \| Boreal Forest (Factory New) | gun_FN | 3 | 93.5 | 22.1% | 30.8% |
-| P250 \| Contamination (Factory New) | gun_FN | 3 | 93.5 | 7.2% | 0.1% |
-| P250 \| Cyber Shell (Factory New) | gun_FN | 3 | 93.5 | 33.9% | 41.1% |
-| P250 \| Hive (Factory New) | gun_FN | 3 | 93.5 | 35.6% | 23.0% |
-| P250 \| Iron Clad (Factory New) | gun_FN | 3 | 93.5 | 20.1% | 23.6% |
-| P250 \| Lotus Imprint (Factory New) | gun_FN | 3 | 93.5 | 32.0% | 41.6% |
-| P250 \| Mint Kimono (Factory New) | gun_FN | 3 | 93.5 | 11.8% | 24.7% |
-| P250 \| Undertow (Factory New) | gun_FN | 3 | 93.5 | 16.4% | 28.9% |
-| PP-Bizon \| Osiris (Factory New) | gun_FN | 3 | 93.5 | 53.5% | 68.9% |
-| PP-Bizon \| Sand Dashed (Factory New) | gun_FN | 3 | 93.5 | 7.7% | 7.4% |
-| R8 Revolver \| Crimson Web (Factory New) | gun_FN | 3 | 93.5 | 16.4% | 63.7% |
-| SG 553 \| Candy Apple (Factory New) | gun_FN | 3 | 93.5 | 11.4% | 18.9% |
-| SG 553 \| Tiger Moth (Factory New) | gun_FN | 3 | 93.5 | 13.1% | 5.0% |
-| Sawed-Off \| Serenity (Factory New) | gun_FN | 3 | 93.5 | 17.9% | 1.6% |
-| Tec-9 \| Groundwater (Factory New) | gun_FN | 3 | 93.5 | 44.0% | 18.0% |
-| Tec-9 \| Ice Cap (Factory New) | gun_FN | 3 | 93.5 | 11.1% | 3.2% |
-| Tec-9 \| Ossified (Factory New) | gun_FN | 3 | 93.5 | 42.7% | 24.6% |
-| Tec-9 \| Snek-9 (Factory New) | gun_FN | 3 | 93.5 | 54.7% | 183.7% |
+| Zeus x27 \| Charged Up (Factory New) | gun_FN | 3 | 97.7 | 12.1% | 6.2% |
+| AWP \| Green Energy (Factory New) | gun_FN | 3 | 94.9 | 0.6% | 2.8% |
+| Desert Eagle \| Firebreathing (Factory New) | gun_FN | 3 | 94.9 | 4.7% | 5.8% |
+| Dual Berettas \| Colony (Factory New) | gun_FN | 3 | 94.9 | 15.0% | 39.6% |
+| Dual Berettas \| Tread (Factory New) | gun_FN | 3 | 94.9 | 17.7% | 5.6% |
+| FAMAS \| Afterimage (Factory New) | gun_FN | 3 | 94.9 | 6.6% | 6.9% |
+| FAMAS \| Mecha Industries (Factory New) | gun_FN | 3 | 94.9 | 6.3% | 14.1% |
+| G3SG1 \| Murky (Factory New) | gun_FN | 3 | 94.9 | 4.9% | 11.5% |
+| Galil AR \| Galigator (Factory New) | gun_FN | 3 | 94.9 | 9.5% | 7.6% |
+| MAC-10 \| Classic Crate (Factory New) | gun_FN | 3 | 94.9 | 70.8% | 65.7% |
+| MAG-7 \| SWAG-7 (Factory New) | gun_FN | 3 | 94.9 | 9.8% | 14.6% |
+| MP5-SD \| Dirt Drop (Factory New) | gun_FN | 3 | 94.9 | 11.6% | 24.7% |
+| MP5-SD \| Nitro (Factory New) | gun_FN | 3 | 94.9 | 22.3% | 8.3% |
+| MP7 \| Amberline (Factory New) | gun_FN | 3 | 94.9 | 5.9% | 14.2% |
+| MP7 \| Army Recon (Factory New) | gun_FN | 3 | 94.9 | 13.0% | 8.5% |
+| MP7 \| Powercore (Factory New) | gun_FN | 3 | 94.9 | 16.8% | 5.6% |
+| MP7 \| Teal Blossom (Factory New) | gun_FN | 3 | 94.9 | 6.8% | 5.6% |
+| MP9 \| Bioleak (Factory New) | gun_FN | 3 | 94.9 | 9.2% | 23.6% |
+| P90 \| Elite Build (Factory New) | gun_FN | 3 | 94.9 | 3.9% | 0.5% |
+| P90 \| Shapewood (Factory New) | gun_FN | 3 | 94.9 | 5.6% | 4.2% |
+| PP-Bizon \| Sand Dashed (Factory New) | gun_FN | 3 | 94.9 | 9.8% | 10.4% |
+| PP-Bizon \| Urban Dashed (Factory New) | gun_FN | 3 | 94.9 | 14.7% | 35.7% |
+| R8 Revolver \| Crimson Web (Factory New) | gun_FN | 3 | 94.9 | 25.2% | 78.2% |
+| R8 Revolver \| Junk Yard (Factory New) | gun_FN | 3 | 94.9 | 39.5% | 35.6% |
+| R8 Revolver \| Memento (Factory New) | gun_FN | 3 | 94.9 | 15.8% | 45.7% |
+| SCAR-20 \| Brass (Factory New) | gun_FN | 3 | 94.9 | 0.4% | 13.4% |
+| SCAR-20 \| Carbon Fiber (Factory New) | gun_FN | 3 | 94.9 | 26.8% | 6.1% |
+| Sawed-Off \| Apocalypto (Factory New) | gun_FN | 3 | 94.9 | 30.0% | 64.2% |
+| Sawed-Off \| Serenity (Factory New) | gun_FN | 3 | 94.9 | 9.9% | 6.0% |
+| UMP-45 \| Neo-Noir (Factory New) | gun_FN | 3 | 94.9 | 3.8% | 2.7% |
+| UMP-45 \| Oscillator (Factory New) | gun_FN | 3 | 94.9 | 8.5% | 7.4% |
+| USP-S \| Stainless (Factory New) | gun_FN | 3 | 94.9 | 1.7% | 17.8% |
+| USP-S \| Ticket to Hell (Factory New) | gun_FN | 3 | 94.9 | 16.7% | 21.5% |
+| Zeus x27 \| Earth Mandala (Factory New) | gun_FN | 3 | 94.9 | 5.2% | 11.0% |
+| ★ Driver Gloves \| Wave Chaser (Minimal Wear) | gloves_MW_FT | 3 | 94.9 | 1.0% | 2.8% |
+| USP-S \| Silent Shot (Factory New) | gun_FN | 3 | 91.5 | 1.4% | 19.8% |
+| 3rd Commando Company \| KSK | agent | 3 | 46.8 | 0.6% | 4.2% |
+| AUG \| Anodized Navy (Factory New) | gun_FN | 3 | 46.8 | 4.6% | 16.6% |
+| Col. Mangos Dabisi \| Guerrilla Warfare | agent | 3 | 46.8 | 5.6% | 5.1% |
+| M4A1-S \| Solitude (Factory New) | gun_FN | 3 | 46.8 | 15.7% | 13.0% |
+| M4A1-S \| Stratosphere (Factory New) | gun_FN | 3 | 46.8 | 3.4% | 7.7% |
+| MP9 \| Green Plaid (Factory New) | gun_FN | 3 | 46.8 | -0.2% | 8.2% |
+| MP9 \| Urban Sovereign (Factory New) | gun_FN | 3 | 46.8 | 7.3% | 15.1% |
+| Officer Jacques Beltram \| Gendarmerie Nationale | agent | 3 | 46.8 | 2.0% | 0.5% |
+| P90 \| Chopper (Factory New) | gun_FN | 3 | 46.8 | 17.1% | 13.8% |
+| PP-Bizon \| Photic Zone (Factory New) | gun_FN | 3 | 46.8 | 21.7% | 12.3% |
+| USP-S \| Spiral Glitch (Factory New) | gun_FN | 3 | 46.8 | 6.6% | 10.2% |
+| USP-S \| Tropical Breeze (Factory New) | gun_FN | 3 | 46.8 | 2.3% | 13.7% |
+| XM1014 \| Charter (Factory New) | gun_FN | 3 | 46.8 | 1.4% | 8.1% |
+| Tec-9 \| Blue Blast (Factory New) | gun_FN | 3 | 0.5 | 15.6% | 57.4% |
 
-仅展示前50条；全部 129 条见CSV。
+仅展示前50条；全部 51 条见CSV。
