@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-20
-- 最新K线日期：2026-11-20（距今 0 天）
-- 有效饰品：1571；候选：35
+- 运行日期（日本时间）：2026-11-21
+- 最新K线日期：2026-11-21（距今 0 天）
+- 有效饰品：1571；候选：45
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,38 +16,48 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Galil AR \| VariCamo (Factory New) | gun_FN | 1 | 100.0 | 16.9% | -4.0% |
-| Glock-18 \| Water Elemental (Factory New) | gun_FN | 3 | 98.0 | 4.2% | 65.7% |
-| Tec-9 \| Snek-9 (Factory New) | gun_FN | 3 | 98.0 | 24.5% | 196.4% |
-| AK-47 \| Red Laminate (Factory New) | gun_FN | 3 | 94.0 | 3.8% | 2.1% |
-| AUG \| Amber Slipstream (Factory New) | gun_FN | 3 | 94.0 | 63.5% | 25.1% |
-| AUG \| Signal Scanner (Factory New) | gun_FN | 3 | 94.0 | 17.9% | 20.4% |
-| Desert Eagle \| Meteorite (Factory New) | gun_FN | 3 | 94.0 | 13.9% | 21.1% |
-| Desert Eagle \| Urban Rubble (Factory New) | gun_FN | 3 | 94.0 | 46.1% | 40.7% |
-| FAMAS \| Macabre (Factory New) | gun_FN | 3 | 94.0 | 9.8% | 34.8% |
-| MAC-10 \| Carnivore (Factory New) | gun_FN | 3 | 94.0 | 14.7% | 2.9% |
-| MAG-7 \| Metallic DDPAT (Factory New) | gun_FN | 3 | 94.0 | 13.6% | 13.6% |
-| MP7 \| Army Recon (Factory New) | gun_FN | 3 | 94.0 | 13.1% | 26.1% |
-| P250 \| Ripple (Factory New) | gun_FN | 3 | 94.0 | 28.5% | 58.3% |
-| SCAR-20 \| Splash Jam (Factory New) | gun_FN | 3 | 94.0 | 0.1% | 0.0% |
-| Sawed-Off \| Black Sand (Factory New) | gun_FN | 3 | 94.0 | 20.1% | 20.1% |
-| Tec-9 \| Rust Leaf (Factory New) | gun_FN | 3 | 94.0 | 13.8% | 6.8% |
-| UMP-45 \| Fallout Warning (Factory New) | gun_FN | 3 | 94.0 | 4.0% | 7.1% |
-| USP-S \| PC-GRN (Factory New) | gun_FN | 3 | 94.0 | 10.7% | 8.2% |
-| USP-S \| Silent Shot (Factory New) | gun_FN | 3 | 91.9 | 15.0% | 24.2% |
-| AK-47 \| Black Laminate (Factory New) | gun_FN | 3 | 45.5 | 17.9% | 3.6% |
-| AWP \| Black Box (Factory New) | gun_FN | 3 | 45.5 | 4.8% | 4.5% |
-| CZ75-Auto \| Pole Position (Factory New) | gun_FN | 3 | 45.5 | 7.7% | 10.5% |
-| Five-SeveN \| Scrawl (Factory New) | gun_FN | 3 | 45.5 | 9.1% | 4.8% |
-| M4A1-S \| Emphorosaur-S (Factory New) | gun_FN | 3 | 45.5 | 6.3% | 5.6% |
-| MAG-7 \| Firestarter (Factory New) | gun_FN | 2 | 45.5 | -19.2% | -19.5% |
-| MP7 \| Base-2 (Factory New) | gun_FN | 3 | 45.5 | 14.1% | 17.3% |
-| P2000 \| Gnarled (Factory New) | gun_FN | 3 | 45.5 | 16.2% | 22.8% |
-| P2000 \| Lifted Spirits (Factory New) | gun_FN | 3 | 45.5 | 9.7% | 5.7% |
-| P250 \| Wingshot (Factory New) | gun_FN | 3 | 45.5 | -0.2% | 22.3% |
-| R8 Revolver \| Crazy 8 (Factory New) | gun_FN | 3 | 45.5 | 3.3% | 9.1% |
-| UMP-45 \| Arctic Wolf (Factory New) | gun_FN | 3 | 45.5 | 3.4% | 3.3% |
-| XM1014 \| Quicksilver (Factory New) | gun_FN | 3 | 45.5 | 24.7% | 7.2% |
-| SSG 08 \| Prey (Factory New) | gun_FN | 3 | 0.9 | 10.2% | 32.7% |
-| XM1014 \| Gum Wall Camo (Factory New) | gun_FN | 3 | 0.5 | 37.1% | 25.0% |
-| P250 \| Nuclear Threat (Factory New) | gun_FN | 3 | 0.1 | 193.0% | 389.5% |
+| Five-SeveN \| Violent Daimyo (Factory New) | gun_FN | 3 | 97.2 | 60.8% | 56.5% |
+| Glock-18 \| Catacombs (Factory New) | gun_FN | 3 | 97.2 | 49.9% | 43.2% |
+| Glock-18 \| Green Line (Factory New) | gun_FN | 3 | 97.2 | 25.6% | 10.5% |
+| P250 \| Ripple (Factory New) | gun_FN | 3 | 97.2 | 35.5% | 54.9% |
+| Sawed-Off \| Amber Fade (Factory New) | gun_FN | 3 | 97.2 | 11.5% | 81.3% |
+| Tec-9 \| Snek-9 (Factory New) | gun_FN | 3 | 97.2 | 38.9% | 249.7% |
+| AK-47 \| Uncharted (Factory New) | gun_FN | 3 | 92.7 | 35.4% | 58.1% |
+| Desert Eagle \| Mecha Industries (Factory New) | gun_FN | 3 | 92.7 | 20.8% | 135.5% |
+| FAMAS \| 2A2F (Factory New) | gun_FN | 3 | 92.7 | 3.0% | 13.3% |
+| Galil AR \| Shattered (Factory New) | gun_FN | 3 | 92.7 | 28.0% | 2.6% |
+| Glock-18 \| Water Elemental (Factory New) | gun_FN | 3 | 92.7 | 12.6% | 78.6% |
+| MAC-10 \| Carnivore (Factory New) | gun_FN | 3 | 92.7 | 14.5% | 7.4% |
+| MP7 \| Urban Hazard (Factory New) | gun_FN | 3 | 92.7 | 11.8% | 32.9% |
+| P2000 \| Gnarled (Factory New) | gun_FN | 3 | 92.7 | 22.2% | 24.5% |
+| P250 \| Inferno (Factory New) | gun_FN | 3 | 92.7 | 25.3% | 20.8% |
+| P250 \| Nevermore (Factory New) | gun_FN | 3 | 92.7 | 55.6% | 112.4% |
+| PP-Bizon \| Fuel Rod (Factory New) | gun_FN | 3 | 92.7 | 27.9% | 16.4% |
+| PP-Bizon \| Traitor (Factory New) | gun_FN | 3 | 92.7 | 6.8% | 4.0% |
+| R8 Revolver \| Tango (Factory New) | gun_FN | 3 | 92.7 | 28.6% | 4.6% |
+| SG 553 \| Waves Perforated (Factory New) | gun_FN | 3 | 92.7 | 5.2% | 27.1% |
+| SSG 08 \| Blue Spruce (Factory New) | gun_FN | 3 | 92.7 | 2.1% | 8.5% |
+| SSG 08 \| Prey (Factory New) | gun_FN | 3 | 92.7 | 19.1% | 18.8% |
+| Sawed-Off \| Copper (Factory New) | gun_FN | 3 | 92.7 | 14.3% | 12.4% |
+| Tec-9 \| Bamboozle (Factory New) | gun_FN | 3 | 92.7 | 22.9% | 12.5% |
+| Tec-9 \| Brother (Factory New) | gun_FN | 3 | 92.7 | 22.1% | 46.1% |
+| UMP-45 \| Fallout Warning (Factory New) | gun_FN | 3 | 92.7 | 6.0% | 10.5% |
+| UMP-45 \| Labyrinth (Factory New) | gun_FN | 3 | 92.7 | 11.1% | 9.0% |
+| XM1014 \| Black Site (Factory New) | gun_FN | 3 | 92.7 | 7.7% | 4.0% |
+| Galil AR \| Signal (Factory New) | gun_FN | 3 | 90.5 | 103.5% | 139.6% |
+| Five-SeveN \| Orange Peel (Factory New) | gun_FN | 3 | 90.0 | 25.2% | 26.4% |
+| AUG \| Sweeper (Factory New) | gun_FN | 3 | 44.3 | 26.3% | 20.0% |
+| AWP \| Exothermic (Factory New) | gun_FN | 3 | 44.3 | 4.1% | 1.6% |
+| FAMAS \| Meow 36 (Factory New) | gun_FN | 3 | 44.3 | 23.7% | 5.7% |
+| P90 \| Virus (Factory New) | gun_FN | 3 | 44.3 | 1.6% | 3.4% |
+| SCAR-20 \| Arctic Camo Panels (Factory New) | gun_FN | 3 | 44.3 | 8.0% | 6.7% |
+| Tec-9 \| Flash Out (Factory New) | gun_FN | 3 | 44.3 | 3.7% | 64.3% |
+| UMP-45 \| Mechanism (Factory New) | gun_FN | 3 | 44.3 | 3.7% | 11.7% |
+| USP-S \| Royal Guard (Factory New) | gun_FN | 3 | 44.3 | 11.2% | 1.9% |
+| SSG 08 \| Zeno (Factory New) | gun_FN | 3 | 1.4 | 30.2% | 28.9% |
+| Tec-9 \| Urban DDPAT (Factory New) | gun_FN | 3 | 1.4 | 39.7% | 50.5% |
+| Glock-18 \| Winterized (Factory New) | gun_FN | 3 | 1.1 | 29.2% | 20.7% |
+| Tec-9 \| VariCamo (Factory New) | gun_FN | 3 | 1.0 | 16.4% | 110.1% |
+| XM1014 \| Hieroglyph (Factory New) | gun_FN | 3 | 0.8 | 33.2% | 42.9% |
+| Five-SeveN \| Capillary (Factory New) | gun_FN | 3 | 0.6 | 89.5% | 95.6% |
+| MAC-10 \| Oceanic (Factory New) | gun_FN | 3 | 0.4 | 41.0% | 18.5% |
