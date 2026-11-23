@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-22
-- 最新K线日期：2026-11-22（距今 0 天）
-- 有效饰品：1571；候选：39
+- 运行日期（日本时间）：2026-11-23
+- 最新K线日期：2026-11-23（距今 0 天）
+- 有效饰品：1571；候选：16
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,42 +16,19 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| Dual Berettas \| Heist (Factory New) | gun_FN | 3 | 97.2 | 40.4% | 55.7% |
-| MAC-10 \| Carnivore (Factory New) | gun_FN | 3 | 97.2 | 29.1% | 29.8% |
-| P2000 \| Granite Marbleized (Factory New) | gun_FN | 3 | 97.2 | -1.9% | 76.3% |
-| P2000 \| Imperial (Factory New) | gun_FN | 3 | 97.2 | 32.6% | 79.6% |
-| Tec-9 \| Flash Out (Factory New) | gun_FN | 3 | 94.8 | 42.2% | 104.4% |
-| AUG \| Anodized Navy (Factory New) | gun_FN | 3 | 92.5 | 17.5% | 13.9% |
-| FAMAS \| Macabre (Factory New) | gun_FN | 3 | 92.5 | 27.8% | 60.7% |
-| Five-SeveN \| Dark Polymer (Factory New) | gun_FN | 3 | 92.5 | 5.2% | 5.7% |
-| G3SG1 \| Ancient Ritual (Factory New) | gun_FN | 3 | 92.5 | 10.6% | 4.5% |
-| MAC-10 \| Button Masher (Factory New) | gun_FN | 3 | 92.5 | 1.8% | 11.6% |
-| MAG-7 \| Seabird (Factory New) | gun_FN | 3 | 92.5 | 5.1% | 1.2% |
-| MP7 \| Army Recon (Factory New) | gun_FN | 3 | 92.5 | 9.8% | 32.0% |
-| MP7 \| Guerrilla (Factory New) | gun_FN | 3 | 92.5 | 20.2% | 18.0% |
-| P90 \| Virus (Factory New) | gun_FN | 3 | 92.5 | 5.7% | 10.4% |
-| SG 553 \| Tiger Moth (Factory New) | gun_FN | 3 | 92.5 | 6.8% | 7.3% |
-| SSG 08 \| Mainframe 001 (Factory New) | gun_FN | 3 | 92.5 | 7.8% | 8.2% |
-| SSG 08 \| Necropos (Factory New) | gun_FN | 3 | 92.5 | 9.1% | 21.3% |
-| Sawed-Off \| Amber Fade (Factory New) | gun_FN | 3 | 92.5 | 36.8% | 112.4% |
-| Sawed-Off \| Clay Ambush (Factory New) | gun_FN | 3 | 92.5 | 38.8% | 16.2% |
-| XM1014 \| Jungle (Factory New) | gun_FN | 3 | 92.5 | 17.6% | 17.6% |
-| M4A4 \| Poly Mag (Factory New) | gun_FN | 3 | 90.1 | 3.7% | 19.7% |
-| MP9 \| Dart (Factory New) | gun_FN | 3 | 90.1 | 20.2% | 28.7% |
-| P2000 \| Pulse (Factory New) | gun_FN | 3 | 90.1 | 17.7% | 27.6% |
-| Patch \| Phoenix | agent | 3 | 90.1 | 5.6% | 14.6% |
-| Glock-18 \| Winterized (Factory New) | gun_FN | 3 | 88.9 | 33.9% | 23.9% |
-| Tec-9 \| Urban DDPAT (Factory New) | gun_FN | 3 | 88.7 | 84.3% | 84.1% |
-| CZ75-Auto \| Eco (Factory New) | gun_FN | 3 | 44.1 | 7.2% | 1.6% |
-| Dual Berettas \| Balance (Factory New) | gun_FN | 3 | 44.1 | 8.6% | 3.6% |
-| G3SG1 \| Demeter (Factory New) | gun_FN | 3 | 44.1 | 3.4% | 1.1% |
-| Glock-18 \| Candy Apple (Factory New) | gun_FN | 3 | 44.1 | 3.4% | 4.7% |
-| Glock-18 \| Warhawk (Factory New) | gun_FN | 3 | 44.1 | 18.3% | 18.9% |
-| MAC-10 \| Classic Crate (Factory New) | gun_FN | 3 | 44.1 | 26.5% | 60.1% |
-| MP5-SD \| Agent (Minimal Wear) | agent | 3 | 44.1 | 4.6% | 2.4% |
-| PP-Bizon \| Breaker Box (Factory New) | gun_FN | 3 | 44.1 | 0.2% | 12.0% |
-| SCAR-20 \| Outbreak (Factory New) | gun_FN | 3 | 44.1 | 15.3% | 21.5% |
-| Sawed-Off \| Origami (Factory New) | gun_FN | 3 | 44.1 | 16.0% | 1.8% |
-| XM1014 \| Watchdog (Factory New) | gun_FN | 3 | 44.1 | 11.4% | 0.3% |
-| MP7 \| Urban Hazard (Factory New) | gun_FN | 3 | 0.8 | 28.1% | 44.2% |
-| MAG-7 \| Irradiated Alert (Factory New) | gun_FN | 3 | 0.3 | -0.8% | 5.5% |
+| AUG \| Surveillance (Factory New) | gun_FN | 3 | 92.2 | 6.6% | 0.7% |
+| CZ75-Auto \| Green Plaid (Factory New) | gun_FN | 3 | 92.2 | 32.0% | 77.3% |
+| Dual Berettas \| Anodized Navy (Factory New) | gun_FN | 3 | 92.2 | 12.3% | 7.7% |
+| MP7 \| Army Recon (Factory New) | gun_FN | 3 | 92.2 | 53.2% | 77.3% |
+| P250 \| Verdigris (Factory New) | gun_FN | 3 | 92.2 | 24.7% | 28.5% |
+| SCAR-20 \| Sand Mesh (Factory New) | gun_FN | 3 | 92.2 | 13.3% | 16.2% |
+| SCAR-20 \| Sirocco Script (Factory New) | gun_FN | 3 | 92.2 | 7.8% | 16.1% |
+| Sawed-Off \| Mosaico (Factory New) | gun_FN | 3 | 92.2 | 11.9% | 12.2% |
+| UMP-45 \| Oscillator (Factory New) | gun_FN | 3 | 92.2 | 6.1% | 1.5% |
+| XM1014 \| Scumbria (Factory New) | gun_FN | 3 | 92.2 | 1.2% | 8.7% |
+| PP-Bizon \| Fuel Rod (Factory New) | gun_FN | 3 | 88.4 | 67.9% | 44.5% |
+| FAMAS \| Hexane (Factory New) | gun_FN | 3 | 44.0 | 4.8% | 31.1% |
+| Galil AR \| Sky Mandala (Factory New) | gun_FN | 3 | 44.0 | 10.3% | 0.8% |
+| Galil AR \| Sugar Rush (Factory New) | gun_FN | 2 | 44.0 | -16.7% | -25.3% |
+| MAG-7 \| Copper Coated (Factory New) | gun_FN | 2 | 44.0 | -18.4% | -14.5% |
+| Tec-9 \| Flash Out (Factory New) | gun_FN | 3 | 0.5 | 65.2% | 133.4% |
