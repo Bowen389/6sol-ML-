@@ -1,7 +1,7 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-23
-- 最新K线日期：2026-11-23（距今 0 天）
+- 运行日期（日本时间）：2026-11-24
+- 最新K线日期：2026-11-24（距今 0 天）
 - 有效饰品：1571；候选：16
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
@@ -16,19 +16,19 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| AUG \| Surveillance (Factory New) | gun_FN | 3 | 92.2 | 6.6% | 0.7% |
-| CZ75-Auto \| Green Plaid (Factory New) | gun_FN | 3 | 92.2 | 32.0% | 77.3% |
-| Dual Berettas \| Anodized Navy (Factory New) | gun_FN | 3 | 92.2 | 12.3% | 7.7% |
-| MP7 \| Army Recon (Factory New) | gun_FN | 3 | 92.2 | 53.2% | 77.3% |
-| P250 \| Verdigris (Factory New) | gun_FN | 3 | 92.2 | 24.7% | 28.5% |
-| SCAR-20 \| Sand Mesh (Factory New) | gun_FN | 3 | 92.2 | 13.3% | 16.2% |
-| SCAR-20 \| Sirocco Script (Factory New) | gun_FN | 3 | 92.2 | 7.8% | 16.1% |
-| Sawed-Off \| Mosaico (Factory New) | gun_FN | 3 | 92.2 | 11.9% | 12.2% |
-| UMP-45 \| Oscillator (Factory New) | gun_FN | 3 | 92.2 | 6.1% | 1.5% |
-| XM1014 \| Scumbria (Factory New) | gun_FN | 3 | 92.2 | 1.2% | 8.7% |
-| PP-Bizon \| Fuel Rod (Factory New) | gun_FN | 3 | 88.4 | 67.9% | 44.5% |
-| FAMAS \| Hexane (Factory New) | gun_FN | 3 | 44.0 | 4.8% | 31.1% |
-| Galil AR \| Sky Mandala (Factory New) | gun_FN | 3 | 44.0 | 10.3% | 0.8% |
-| Galil AR \| Sugar Rush (Factory New) | gun_FN | 2 | 44.0 | -16.7% | -25.3% |
-| MAG-7 \| Copper Coated (Factory New) | gun_FN | 2 | 44.0 | -18.4% | -14.5% |
-| Tec-9 \| Flash Out (Factory New) | gun_FN | 3 | 0.5 | 65.2% | 133.4% |
+| Dual Berettas \| Anodized Navy (Factory New) | gun_FN | 3 | 91.1 | 22.9% | 15.7% |
+| Dual Berettas \| Heist (Factory New) | gun_FN | 3 | 91.1 | 64.9% | 76.2% |
+| MAG-7 \| Memento (Factory New) | gun_FN | 3 | 91.1 | 33.8% | 6.7% |
+| P250 \| Iron Clad (Factory New) | gun_FN | 3 | 91.1 | 33.3% | 66.7% |
+| Tec-9 \| Jambiya (Factory New) | gun_FN | 3 | 91.1 | 29.9% | 61.9% |
+| Tec-9 \| Snek-9 (Factory New) | gun_FN | 3 | 90.0 | 96.1% | 376.0% |
+| Glock-18 \| Red Tire (Factory New) | gun_FN | 3 | 89.7 | 22.7% | 62.7% |
+| FAMAS \| Teardown (Factory New) | gun_FN | 2 | 42.9 | -19.7% | -16.8% |
+| G3SG1 \| High Seas (Factory New) | gun_FN | 2 | 42.9 | -18.6% | -23.4% |
+| MP7 \| Special Delivery (Factory New) | gun_FN | 3 | 42.9 | 2.9% | 10.0% |
+| P250 \| Cartel (Factory New) | gun_FN | 3 | 42.9 | 8.2% | 6.5% |
+| PP-Bizon \| Cold Cell (Factory New) | gun_FN | 2 | 42.9 | -15.9% | -10.2% |
+| R8 Revolver \| Junk Yard (Factory New) | gun_FN | 3 | 42.9 | -5.1% | 6.6% |
+| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 42.9 | 6.1% | 6.2% |
+| USP-S \| Cortex (Factory New) | gun_FN | 3 | 42.9 | 2.0% | 24.5% |
+| SSG 08 \| Mayan Dreams (Factory New) | gun_FN | 3 | 0.4 | 15.3% | 2.7% |
