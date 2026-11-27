@@ -1,8 +1,8 @@
 # 裸K每日候选观察
 
-- 运行日期（日本时间）：2026-11-26
-- 最新K线日期：2026-11-26（距今 0 天）
-- 有效饰品：1571；候选：27
+- 运行日期（日本时间）：2026-11-27
+- 最新K线日期：2026-11-27（距今 0 天）
+- 有效饰品：1571；候选：81
 - 状态：**数据日期在允许范围内；仅供观察，非买入建议**
 
 ## 策略口径
@@ -16,30 +16,55 @@
 
 | 饰品 | 品类 | 命中策略 | 7天模型分位分 | 7日涨跌 | 30日涨跌 |
 |---|---|---:|---:|---:|---:|
-| SCAR-20 \| Carbon Fiber (Factory New) | gun_FN | 2 | 97.5 | -25.0% | -8.7% |
-| M4A4 \| Daybreak (Factory New) | gun_FN | 3 | 91.1 | 35.6% | 23.2% |
-| M4A4 \| Hellish (Factory New) | gun_FN | 3 | 91.1 | 10.7% | 34.1% |
-| M4A4 \| Jungle Tiger (Factory New) | gun_FN | 3 | 91.1 | 8.1% | 8.1% |
-| M4A4 \| The Coalition (Factory New) | gun_FN | 3 | 91.1 | 34.2% | 17.8% |
-| MP5-SD \| Necro Jr. (Factory New) | gun_FN | 3 | 91.1 | 11.0% | 6.9% |
-| MP7 \| Vault Heist (Factory New) | gun_FN | 3 | 91.1 | 9.4% | 16.1% |
-| P90 \| Freight (Factory New) | gun_FN | 3 | 91.1 | 0.3% | 12.5% |
-| UMP-45 \| Full Stop (Factory New) | gun_FN | 3 | 91.1 | 24.2% | 24.5% |
-| ★ Hand Wraps \| Leather (Field-Tested) | gloves_MW_FT | 3 | 91.1 | 25.1% | 3.3% |
-| SG 553 \| Darkwing (Factory New) | gun_FN | 3 | 87.3 | -7.9% | 38.1% |
-| AUG \| Lapis Lazuli (Factory New) | gun_FN | 3 | 43.9 | 0.5% | 2.9% |
-| Five-SeveN \| Case Hardened (Factory New) | gun_FN | 3 | 43.9 | 0.8% | 13.1% |
-| Five-SeveN \| Midnight Paintover (Factory New) | gun_FN | 3 | 43.9 | -5.3% | 18.0% |
-| G3SG1 \| Dream Glade (Factory New) | gun_FN | 3 | 43.9 | 6.4% | 12.8% |
-| MP7 \| Akoben (Factory New) | gun_FN | 3 | 43.9 | 2.1% | 5.2% |
-| MP9 \| Army Sheen (Factory New) | gun_FN | 3 | 43.9 | 3.3% | 8.7% |
-| MP9 \| Ruby Poison Dart (Factory New) | gun_FN | 3 | 43.9 | 1.3% | 9.2% |
-| Operation Phoenix Weapon Case | agent | 2 | 43.9 | -18.2% | -19.2% |
-| R8 Revolver \| Phoenix Marker (Factory New) | gun_FN | 3 | 43.9 | 15.4% | 18.4% |
-| SG 553 \| Berry Gel Coat (Factory New) | gun_FN | 3 | 43.9 | 2.5% | 0.9% |
-| SG 553 \| Cyberforce (Factory New) | gun_FN | 3 | 43.9 | 1.3% | 5.8% |
-| Tec-9 \| Blue Titanium (Factory New) | gun_FN | 3 | 43.9 | 9.1% | 16.6% |
-| ★ Specialist Gloves \| Foundation (Field-Tested) | gloves_MW_FT | 3 | 43.9 | 22.0% | 7.4% |
-| ★ Sport Gloves \| Arid (Field-Tested) | gloves_MW_FT | 3 | 43.9 | 16.3% | 6.3% |
-| Glock-18 \| Sand Dune (Factory New) | gun_FN | 3 | 0.9 | 31.5% | 65.7% |
-| PP-Bizon \| Thermal Currents (Factory New) | gun_FN | 3 | 0.1 | 109.1% | 130.0% |
+| Five-SeveN \| Heat Treated (Factory New) | gun_FN | 3 | 93.8 | 4.0% | 75.8% |
+| AK-47 \| Fuel Injector (Factory New) | gun_FN | 3 | 91.2 | 30.3% | 5.5% |
+| CZ75-Auto \| Syndicate (Factory New) | gun_FN | 3 | 91.2 | 28.8% | 32.8% |
+| Desert Eagle \| Night Heist (Factory New) | gun_FN | 3 | 91.2 | 34.6% | 9.3% |
+| Dual Berettas \| Drift Wood (Factory New) | gun_FN | 3 | 91.2 | 7.3% | 4.6% |
+| Dual Berettas \| Mystic Conjunction (Factory New) | gun_FN | 3 | 91.2 | 2.5% | 1.8% |
+| Dual Berettas \| Oil Change (Factory New) | gun_FN | 3 | 91.2 | 35.4% | 22.7% |
+| G3SG1 \| Ancient Ritual (Factory New) | gun_FN | 3 | 91.2 | 15.1% | 16.8% |
+| Galil AR \| O-Ranger (Factory New) | gun_FN | 3 | 91.2 | 21.9% | 14.7% |
+| Glock-18 \| Franklin (Factory New) | gun_FN | 3 | 91.2 | 39.9% | 20.2% |
+| M4A4 \| Buzz Kill (Factory New) | gun_FN | 3 | 91.2 | 28.4% | 2.4% |
+| M4A4 \| Daybreak (Factory New) | gun_FN | 3 | 91.2 | 43.5% | 27.6% |
+| M4A4 \| Desert-Strike (Factory New) | gun_FN | 3 | 91.2 | 8.9% | 20.7% |
+| M4A4 \| Desolate Space (Factory New) | gun_FN | 3 | 91.2 | 12.3% | 14.9% |
+| MAC-10 \| Derailment (Factory New) | gun_FN | 3 | 91.2 | 8.0% | 13.1% |
+| MP5-SD \| Agent (Factory New) | agent | 3 | 91.2 | 5.3% | 7.8% |
+| MP9 \| Army Sheen (Factory New) | gun_FN | 3 | 91.2 | 8.9% | 16.5% |
+| MP9 \| Hot Rod (Factory New) | gun_FN | 3 | 91.2 | 25.6% | 23.2% |
+| P250 \| Drought (Factory New) | gun_FN | 3 | 91.2 | 7.3% | 16.4% |
+| P90 \| Ancient Earth (Factory New) | gun_FN | 3 | 91.2 | 1.8% | 30.3% |
+| PP-Bizon \| Fuel Rod (Factory New) | gun_FN | 3 | 91.2 | 67.9% | 74.6% |
+| SCAR-20 \| Torn (Factory New) | gun_FN | 3 | 91.2 | 7.1% | 4.6% |
+| SSG 08 \| Prey (Factory New) | gun_FN | 3 | 91.2 | 17.9% | 40.9% |
+| Tec-9 \| VariCamo (Factory New) | gun_FN | 3 | 91.2 | 36.6% | 138.7% |
+| USP-S \| Road Rash (Factory New) | gun_FN | 3 | 91.2 | 13.6% | 12.1% |
+| XM1014 \| Black Site (Factory New) | gun_FN | 3 | 91.2 | 6.1% | 5.5% |
+| ★ Driver Gloves \| Convoy (Field-Tested) | gloves_MW_FT | 3 | 91.2 | 35.1% | 7.4% |
+| ★ Driver Gloves \| Crimson Weave (Minimal Wear) | gloves_MW_FT | 3 | 91.2 | 17.2% | 0.0% |
+| ★ Driver Gloves \| Lunar Weave (Field-Tested) | gloves_MW_FT | 3 | 91.2 | 32.3% | 0.5% |
+| ★ Hand Wraps \| Slaughter (Minimal Wear) | gloves_MW_FT | 3 | 91.2 | 16.3% | 11.4% |
+| ★ Moto Gloves \| Eclipse (Minimal Wear) | gloves_MW_FT | 3 | 91.2 | 11.0% | 4.8% |
+| M4A4 \| Dark Operative (Factory New) | gun_FN | 3 | 88.8 | 4.8% | 25.3% |
+| MAC-10 \| Rangeen (Factory New) | gun_FN | 3 | 88.3 | 0.5% | 53.7% |
+| PP-Bizon \| Cold Cell (Factory New) | gun_FN | 2 | 85.5 | -23.0% | -24.2% |
+| AK-47 \| Cartel (Factory New) | gun_FN | 3 | 43.7 | 2.0% | 12.9% |
+| AWP \| Corticera (Factory New) | gun_FN | 3 | 43.7 | 5.3% | 1.5% |
+| AWP \| Elite Build (Factory New) | gun_FN | 3 | 43.7 | -1.5% | 9.0% |
+| Desert Eagle \| Directive (Factory New) | gun_FN | 3 | 43.7 | 10.0% | 11.4% |
+| Desert Eagle \| Emerald Jörmungandr (Factory New) | gun_FN | 3 | 43.7 | 25.7% | 1.7% |
+| Desert Eagle \| Heirloom (Factory New) | gun_FN | 3 | 43.7 | 6.2% | 10.0% |
+| FAMAS \| CaliCamo (Factory New) | gun_FN | 3 | 43.7 | 11.3% | 30.7% |
+| Five-SeveN \| Fowl Play (Factory New) | gun_FN | 3 | 43.7 | 19.1% | 7.7% |
+| Galil AR \| Black Sand (Factory New) | gun_FN | 3 | 43.7 | 7.7% | 22.7% |
+| Galil AR \| Cerberus (Factory New) | gun_FN | 3 | 43.7 | 16.2% | 0.0% |
+| Glock-18 \| Groundwater (Factory New) | gun_FN | 3 | 43.7 | 0.2% | 30.3% |
+| Glock-18 \| Royal Legion (Factory New) | gun_FN | 3 | 43.7 | 6.5% | 1.4% |
+| M4A4 \| Bullet Rain (Factory New) | gun_FN | 3 | 43.7 | 9.3% | 9.0% |
+| M4A4 \| Global Offensive (Factory New) | gun_FN | 3 | 43.7 | 14.6% | 15.8% |
+| M4A4 \| Spider Lily (Factory New) | gun_FN | 3 | 43.7 | 8.8% | 7.8% |
+| M4A4 \| X-Ray (Factory New) | gun_FN | 3 | 43.7 | 7.0% | 13.7% |
+
+仅展示前50条；全部 81 条见CSV。
